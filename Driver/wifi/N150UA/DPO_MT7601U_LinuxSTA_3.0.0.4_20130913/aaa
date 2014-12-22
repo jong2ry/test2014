@@ -1,0 +1,989 @@
+ate/include/rt_ate.h:388:	IN RTMP_IOCTL_INPUT_STRUCT *wrq,
+ate/common/rt_qa.c:545:	IN	RTMP_IOCTL_INPUT_STRUCT	*pwrq,
+ate/common/rt_qa.c:574:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:599:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:658:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:689:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:711:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:729:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:745:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:762:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:790:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:817:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:849:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:870:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:893:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:912:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:932:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:961:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:986:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1098:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1115:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1130:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1148:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1163:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1178:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1193:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1208:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1232:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1255:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1279:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1303:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1326:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1373:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1397:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1420:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1443:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1466:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1489:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1505:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1521:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1537:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1560:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1583:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1609:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1624:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1650:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1683:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1709:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1735:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1768:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1783:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1805:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1827:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1853:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1877:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1904:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1932:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:1995:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+ate/common/rt_qa.c:2149:	IN RTMP_IOCTL_INPUT_STRUCT *wrq,
+ate/common/rt_qa.c:2221:	IN	RTMP_IOCTL_INPUT_STRUCT		*wrq,
+이진파일 common/cmm_cfg.o 와(과) 일치
+common/cmm_cfg.c:623:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCGIWNAME.
+common/cmm_cfg.c:654:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+common/cmm_cfg.c:671:		case CMD_RTPRIV_IOCTL_NETDEV_GET:
+common/cmm_cfg.c:679:		case CMD_RTPRIV_IOCTL_NETDEV_SET:
+common/cmm_cfg.c:685:		case CMD_RTPRIV_IOCTL_OPMODE_GET:
+common/cmm_cfg.c:691:		case CMD_RTPRIV_IOCTL_TASK_LIST_GET:
+common/cmm_cfg.c:704:		case CMD_RTPRIV_IOCTL_IRQ_INIT:
+common/cmm_cfg.c:709:		case CMD_RTPRIV_IOCTL_IRQ_RELEASE:
+common/cmm_cfg.c:715:		case CMD_RTPRIV_IOCTL_NIC_NOT_EXIST:
+common/cmm_cfg.c:720:		case CMD_RTPRIV_IOCTL_MCU_SLEEP_CLEAR:
+common/cmm_cfg.c:725:		case CMD_RTPRIV_IOCTL_MAX_IN_BIT:
+common/cmm_cfg.c:734:                case CMD_RTPRIV_IOCTL_USB_DEV_GET:
+common/cmm_cfg.c:743:		case CMD_RTPRIV_IOCTL_ADAPTER_SEND_DISSASSOCIATE:
+common/cmm_cfg.c:771:		case CMD_RTPRIV_IOCTL_ADAPTER_SUSPEND_TEST:
+common/cmm_cfg.c:776:		case CMD_RTPRIV_IOCTL_ADAPTER_IDLE_RADIO_OFF_TEST:
+common/cmm_cfg.c:784:		case CMD_RTPRIV_IOCTL_ADAPTER_RT28XX_WOW_STATUS:
+common/cmm_cfg.c:788:		case CMD_RTPRIV_IOCTL_ADAPTER_RT28XX_WOW_ENABLE:
+common/cmm_cfg.c:792:		case CMD_RTPRIV_IOCTL_ADAPTER_RT28XX_WOW_DISABLE:
+common/cmm_cfg.c:798:		case CMD_RTPRIV_IOCTL_AP_BSSID_GET:
+common/cmm_cfg.c:806:		case CMD_RTPRIV_IOCTL_ADAPTER_SUSPEND_SET:
+common/cmm_cfg.c:811:		case CMD_RTPRIV_IOCTL_ADAPTER_SUSPEND_CLEAR:
+common/cmm_cfg.c:816:		case CMD_RTPRIV_IOCTL_ADAPTER_RT28XX_USB_ASICRADIO_OFF:
+common/cmm_cfg.c:822:		case CMD_RTPRIV_IOCTL_ADAPTER_RT28XX_USB_ASICRADIO_ON:
+common/cmm_cfg.c:828:		case CMD_RTPRIV_IOCTL_SANITY_CHECK:
+common/cmm_cfg.c:829:		/* sanity check before IOCTL */
+common/cmm_cfg.c:843:		case CMD_RTPRIV_IOCTL_SIOCGIWFREQ:
+common/cmm_cfg.c:850:		case CMD_RTPRIV_IOCTL_BEACON_UPDATE:
+common/cmm_cfg.c:854:		case CMD_RTPRIV_IOCTL_RXPATH_GET:
+common/cmm_cfg.c:859:		case CMD_RTPRIV_IOCTL_CHAN_LIST_NUM_GET:
+common/cmm_cfg.c:863:		case CMD_RTPRIV_IOCTL_CHAN_LIST_GET:
+common/cmm_cfg.c:876:		case CMD_RTPRIV_IOCTL_FREQ_LIST_GET:
+common/cmm_cfg.c:901:		case CMD_RTPRIV_IOCTL_USB_MORE_FLAG_SET:
+common/cmm_cfg.c:935:		case CMD_RTPRIV_IOCTL_USB_CONFIG_INIT:
+common/cmm_cfg.c:959:		case CMD_RTPRIV_IOCTL_USB_SUSPEND:
+common/cmm_cfg.c:968:		case CMD_RTPRIV_IOCTL_USB_RESUME:
+common/cmm_cfg.c:975:		case CMD_RTPRIV_IOCTL_CFG80211_CFG_START:
+common/cmm_cfg.c:982:		case CMD_RTPRIV_IOCTL_INF_PPA_INIT:
+common/cmm_cfg.c:986:		case CMD_RTPRIV_IOCTL_INF_PPA_EXIT:
+common/cmm_cfg.c:997:		case CMD_RTPRIV_IOCTL_VIRTUAL_INF_UP:
+common/cmm_cfg.c:1017:		case CMD_RTPRIV_IOCTL_VIRTUAL_INF_DOWN:
+common/cmm_cfg.c:1028:		case CMD_RTPRIV_IOCTL_VIRTUAL_INF_GET:
+common/cmm_cfg.c:1033:		case CMD_RTPRIV_IOCTL_INF_TYPE_GET:
+common/cmm_cfg.c:1038:		case CMD_RTPRIV_IOCTL_INF_STATS_GET:
+common/cmm_cfg.c:1061:		case CMD_RTPRIV_IOCTL_INF_IW_STATUS_GET:
+common/cmm_cfg.c:1112:		case CMD_RTPRIV_IOCTL_INF_MAIN_CREATE:
+common/cmm_cfg.c:1116:		case CMD_RTPRIV_IOCTL_INF_MAIN_ID_GET:
+common/cmm_cfg.c:1120:		case CMD_RTPRIV_IOCTL_INF_MAIN_CHECK:
+common/cmm_cfg.c:1125:		case CMD_RTPRIV_IOCTL_INF_P2P_CHECK:
+common/cmm_cfg.c:1131:		case CMD_RTPRIV_IOCTL_WDS_INIT:
+common/cmm_cfg.c:1135:		case CMD_RTPRIV_IOCTL_WDS_REMOVE:
+common/cmm_cfg.c:1139:		case CMD_RTPRIV_IOCTL_WDS_STATS_GET:
+common/cmm_cfg.c:1152:		case CMD_RTPRIV_IOCTL_ATE:
+common/cmm_cfg.c:1158:		case CMD_RTPRIV_IOCTL_MAC_ADDR_GET:
+common/cmm_cfg.c:1175:		case CMD_RTPRIV_IOCTL_SIOCGIWNAME:
+common/cmm_cfg.c:1180:		case CMD_RTPRIV_IOCTL_ADAPTER_CSO_SUPPORT_TEST:
+common/cmm_cfg.c:1188:	if ((CMD_RTPRIV_IOCTL_80211_START <= cmd) &&
+common/cmm_cfg.c:1189:		(cmd <= CMD_RTPRIV_IOCTL_80211_END))
+common/cmm_cfg.c:1195:	if (cmd >= CMD_RTPRIV_IOCTL_80211_COM_LATEST_ONE)
+common/rt_os_util.c:204:    return (INT32)RTPRIV_IOCTL_SET;
+common/rtusb_io.c:1013:	  Creates an IRP to submite an IOCTL_INTERNAL_USB_RESET_PORT
+이진파일 common/cmm_info.o 와(과) 일치
+common/cmm_info.c:670:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) == NDIS_STATUS_SUCCESS)
+common/cmm_info.c:709:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) == NDIS_STATUS_SUCCESS)
+common/cmm_info.c:742:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) == NDIS_STATUS_SUCCESS)
+common/cmm_info.c:949:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) == NDIS_STATUS_SUCCESS)
+common/cmm_info.c:1998:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq)
+common/cmm_info.c:2079:	IN RTMP_IOCTL_INPUT_STRUCT *wrq)
+include/cfg80211extr.h:106:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+include/rtmp_comm.h:265: * IOCTL related definitions and data structures.
+include/rtmp_comm.h:267:typedef struct __RTMP_IOCTL_INPUT_STRUCT
+include/rtmp_comm.h:279:} RTMP_IOCTL_INPUT_STRUCT;
+include/ap.h:438:VOID AP_E2PROM_IOCTL_PostCtrl(
+include/ap.h:439:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+include/os/rt_linux.h:175:typedef struct ifreq		NET_IOCTL;
+include/os/rt_linux.h:176:typedef struct ifreq		* PNET_IOCTL;
+include/os/rt_linux.h:493:/* TODO: Use this IOCTL carefully when linux kernel version larger than 2.6.27, because the PID only correct when the user space task do this ioctl itself. */
+include/os/rt_os.h:43:#define RT_PRIV_IOCTL							(SIOCIWFIRSTPRIV + 0x01) /* Sync. with AP for wsc upnp daemon */
+include/os/rt_os.h:44:#define RTPRIV_IOCTL_SET							(SIOCIWFIRSTPRIV + 0x02)
+include/os/rt_os.h:47:#define RTPRIV_IOCTL_BBP                            (SIOCIWFIRSTPRIV + 0x03)
+include/os/rt_os.h:48:#define RTPRIV_IOCTL_MAC                            (SIOCIWFIRSTPRIV + 0x05)
+include/os/rt_os.h:50:#define RTPRIV_IOCTL_RF                             (SIOCIWFIRSTPRIV + 0x13)  /* edit by johnli, fix read rf register problem */
+include/os/rt_os.h:51:#define RTPRIV_IOCTL_E2P                            (SIOCIWFIRSTPRIV + 0x07)
+include/os/rt_os.h:54:#define RTPRIV_IOCTL_ATE							(SIOCIWFIRSTPRIV + 0x08)
+include/os/rt_os.h:56:#define RTPRIV_IOCTL_STATISTICS                     (SIOCIWFIRSTPRIV + 0x09)
+include/os/rt_os.h:57:#define RTPRIV_IOCTL_ADD_PMKID_CACHE                (SIOCIWFIRSTPRIV + 0x0A)
+include/os/rt_os.h:58:#define RTPRIV_IOCTL_RADIUS_DATA                    (SIOCIWFIRSTPRIV + 0x0C)
+include/os/rt_os.h:59:#define RTPRIV_IOCTL_GSITESURVEY					(SIOCIWFIRSTPRIV + 0x0D)
+include/os/rt_os.h:60:#define RT_PRIV_IOCTL_EXT							(SIOCIWFIRSTPRIV + 0x0E) /* Sync. with RT61 (for wpa_supplicant) */
+include/os/rt_os.h:61:#define RTPRIV_IOCTL_GET_MAC_TABLE					(SIOCIWFIRSTPRIV + 0x0F)
+include/os/rt_os.h:62:#define RTPRIV_IOCTL_GET_MAC_TABLE_STRUCT					(SIOCIWFIRSTPRIV + 0x1F)	/* modified by Red@Ralink, 2009/09/30 */
+include/os/rt_os.h:64:#define RTPRIV_IOCTL_SHOW							(SIOCIWFIRSTPRIV + 0x11)
+include/os/rt_drv.h:219: * IOCTL related definitions and data structures.
+include/os/rt_drv.h:221:#define NET_IOCTL				VOID
+include/os/rt_drv.h:222:#define PNET_IOCTL				VOID *
+include/rtmp.h:6667:	IN	RTMP_IOCTL_INPUT_STRUCT			*wrq);
+include/rtmp.h:6671:	IN	RTMP_IOCTL_INPUT_STRUCT			*wrq);
+include/rtmp.h:6675:	IN	RTMP_IOCTL_INPUT_STRUCT			*wrq);
+include/rtmp.h:7358:	IN	RTMP_IOCTL_INPUT_STRUCT *wrq);
+include/rtmp.h:8175:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq);
+include/rtmp.h:8179:    IN  RTMP_IOCTL_INPUT_STRUCT *wrq);
+include/rtmp.h:8296:    IN OUT RTMP_IOCTL_INPUT_STRUCT *rq,
+include/rtmp.h:8301:    INOUT RTMP_IOCTL_INPUT_STRUCT *rq,
+include/rtmp.h:8306:	IN RTMP_IOCTL_INPUT_STRUCT *rq,
+include/rtmp.h:8313:	IN RTMP_IOCTL_INPUT_STRUCT *wrq,
+include/oid.h:798:#define RTPRIV_IOCTL_FLAG_UI			0x0001	/* Notidy this private cmd send by UI. */
+include/oid.h:799:#define RTPRIV_IOCTL_FLAG_NODUMPMSG	0x0002	/* Notify driver cannot dump msg to stdio/stdout when run this private ioctl cmd */
+include/oid.h:800:#define RTPRIV_IOCTL_FLAG_NOSPACE		0x0004	/* Notify driver didn't need copy msg to caller due to the caller didn't reserve space for this cmd */
+include/oid.h:1200:/*RTPRIV_IOCTL_NINTENDO_GET_TABLE */
+include/oid.h:1201:/*RTPRIV_IOCTL_NINTENDO_SET_TABLE */
+include/oid.h:1207:/*RTPRIV_IOCTL_NINTENDO_SEED_WEPKEY */
+include/rtmp_cmd.h:115:typedef enum _CMD_RTPRIV_IOCTL_AP {
+include/rtmp_cmd.h:118:	CMD_RTPRIV_IOCTL_SET_WSCOOB = 0x0001,
+include/rtmp_cmd.h:119:	CMD_RTPRIV_IOCTL_GET_MAC_TABLE,
+include/rtmp_cmd.h:120:	CMD_RTPRIV_IOCTL_GSITESURVEY,
+include/rtmp_cmd.h:121:	CMD_RTPRIV_IOCTL_STATISTICS,
+include/rtmp_cmd.h:122:	CMD_RTPRIV_IOCTL_QUERY_BATABLE,
+include/rtmp_cmd.h:123:	CMD_RTPRIV_IOCTL_E2P,
+include/rtmp_cmd.h:124:	CMD_RTPRIV_IOCTL_BBP,
+include/rtmp_cmd.h:125:	CMD_RTPRIV_IOCTL_MAC,
+include/rtmp_cmd.h:126:	CMD_RTPRIV_IOCTL_RF,
+include/rtmp_cmd.h:127:	CMD_RT_PRIV_IOCTL,
+include/rtmp_cmd.h:128:	CMD_RTPRIV_IOCTL_SET,
+include/rtmp_cmd.h:129:	CMD_RTPRIV_IOCTL_SHOW,
+include/rtmp_cmd.h:130:	CMD_RTPRIV_IOCTL_GET_AR9_SHOW,
+include/rtmp_cmd.h:131:	CMD_RTPRIV_IOCTL_ATE,
+include/rtmp_cmd.h:132:	CMD_RTPRIV_IOCTL_CHID_2_FREQ,
+include/rtmp_cmd.h:133:	CMD_RTPRIV_IOCTL_FREQ_2_CHID,
+include/rtmp_cmd.h:134:	CMD_RTPRIV_IOCTL_GET_MAC_TABLE_STRUCT,
+include/rtmp_cmd.h:137:	CMD_RTPRIV_IOCTL_MBSS_BEACON_UPDATE,
+include/rtmp_cmd.h:138:	CMD_RTPRIV_IOCTL_MBSS_OPEN,
+include/rtmp_cmd.h:139:	CMD_RTPRIV_IOCTL_MBSS_CLOSE,
+include/rtmp_cmd.h:140:	CMD_RTPRIV_IOCTL_MBSS_INIT,
+include/rtmp_cmd.h:141:	CMD_RTPRIV_IOCTL_MBSS_REMOVE,
+include/rtmp_cmd.h:144:	CMD_RTPRIV_IOCTL_WSC_PROFILE,
+include/rtmp_cmd.h:145:	CMD_RTPRIV_IOCTL_WSC_INIT,
+include/rtmp_cmd.h:148:	CMD_RTPRIV_IOCTL_APC_UP,
+include/rtmp_cmd.h:149:	CMD_RTPRIV_IOCTL_APC_DISCONNECT,
+include/rtmp_cmd.h:150:	CMD_RTPRIV_IOCTL_APC_INIT,
+include/rtmp_cmd.h:151:	CMD_RTPRIV_IOCTL_APC_OPEN,
+include/rtmp_cmd.h:152:	CMD_RTPRIV_IOCTL_APC_CLOSE,
+include/rtmp_cmd.h:153:	CMD_RTPRIV_IOCTL_APC_REMOVE,
+include/rtmp_cmd.h:156:	CMD_RTPRIV_IOCTL_MAIN_OPEN,
+include/rtmp_cmd.h:159:	CMD_RTPRIV_IOCTL_PREPARE,
+include/rtmp_cmd.h:160:	CMD_RTPRIV_IOCTL_AP_SIOCGIWAP,
+include/rtmp_cmd.h:161:	CMD_RTPRIV_IOCTL_AP_SIOCGIFHWADDR,
+include/rtmp_cmd.h:162:	CMD_RTPRIV_IOCTL_AP_SIOCGIWESSID,
+include/rtmp_cmd.h:163:	CMD_RTPRIV_IOCTL_AP_SIOCGIWRATEQ,
+include/rtmp_cmd.h:164:	CMD_RTPRIV_IOCTL_AP_SIOCSIWGENIE,
+include/rtmp_cmd.h:167:} CMD_RTPRIV_IOCTL_AP;
+include/rtmp_cmd.h:170:typedef enum _CMD_RTPRIV_IOCTL_COMMON {
+include/rtmp_cmd.h:173:	CMD_RTPRIV_IOCTL_NETDEV_GET = 0x5000,
+include/rtmp_cmd.h:174:	CMD_RTPRIV_IOCTL_NETDEV_SET,
+include/rtmp_cmd.h:175:	CMD_RTPRIV_IOCTL_OPMODE_GET,
+include/rtmp_cmd.h:176:	CMD_RTPRIV_IOCTL_TASK_LIST_GET,
+include/rtmp_cmd.h:177:	CMD_RTPRIV_IOCTL_IRQ_INIT,
+include/rtmp_cmd.h:178:	CMD_RTPRIV_IOCTL_IRQ_RELEASE,
+include/rtmp_cmd.h:179:	CMD_RTPRIV_IOCTL_MSI_ENABLE,
+include/rtmp_cmd.h:180:	CMD_RTPRIV_IOCTL_NIC_NOT_EXIST,
+include/rtmp_cmd.h:181:	CMD_RTPRIV_IOCTL_MCU_SLEEP_CLEAR,
+include/rtmp_cmd.h:183:	CMD_RTPRIV_IOCTL_MAX_IN_BIT,
+include/rtmp_cmd.h:188:	CMD_RTPRIV_IOCTL_USB_DEV_GET,
+include/rtmp_cmd.h:189:	CMD_RTPRIV_IOCTL_ADAPTER_SEND_DISSASSOCIATE,
+include/rtmp_cmd.h:190:	CMD_RTPRIV_IOCTL_ADAPTER_SUSPEND_TEST,
+include/rtmp_cmd.h:191:	CMD_RTPRIV_IOCTL_ADAPTER_IDLE_RADIO_OFF_TEST,
+include/rtmp_cmd.h:194:	CMD_RTPRIV_IOCTL_ADAPTER_RT28XX_WOW_STATUS,
+include/rtmp_cmd.h:195:	CMD_RTPRIV_IOCTL_ADAPTER_RT28XX_WOW_ENABLE,
+include/rtmp_cmd.h:196:	CMD_RTPRIV_IOCTL_ADAPTER_RT28XX_WOW_DISABLE,
+include/rtmp_cmd.h:199:	CMD_RTPRIV_IOCTL_AP_BSSID_GET,
+include/rtmp_cmd.h:201:	CMD_RTPRIV_IOCTL_ADAPTER_SUSPEND_SET,
+include/rtmp_cmd.h:202:	CMD_RTPRIV_IOCTL_ADAPTER_SUSPEND_CLEAR,
+include/rtmp_cmd.h:203:	CMD_RTPRIV_IOCTL_ADAPTER_RT28XX_USB_ASICRADIO_OFF,
+include/rtmp_cmd.h:204:	CMD_RTPRIV_IOCTL_ADAPTER_RT28XX_USB_ASICRADIO_ON,
+include/rtmp_cmd.h:205:	CMD_RTPRIV_IOCTL_SANITY_CHECK,
+include/rtmp_cmd.h:206:	CMD_RTPRIV_IOCTL_SANITY_CHECK_ON_SET_CMD,	
+include/rtmp_cmd.h:213:	CMD_RTPRIV_IOCTL_MESH_INIT,
+include/rtmp_cmd.h:214:	CMD_RTPRIV_IOCTL_MESH_REMOVE,
+include/rtmp_cmd.h:215:	CMD_RTPRIV_IOCTL_MESH_OPEN_PRE,
+include/rtmp_cmd.h:216:	CMD_RTPRIV_IOCTL_MESH_OPEN_POST,
+include/rtmp_cmd.h:217:	CMD_RTPRIV_IOCTL_MESH_IS_VALID,
+include/rtmp_cmd.h:218:	CMD_RTPRIV_IOCTL_MESH_CLOSE,
+include/rtmp_cmd.h:221:	CMD_RTPRIV_IOCTL_P2P_INIT,
+include/rtmp_cmd.h:222:	CMD_RTPRIV_IOCTL_P2P_REMOVE,
+include/rtmp_cmd.h:223:	CMD_RTPRIV_IOCTL_P2P_OPEN_PRE,
+include/rtmp_cmd.h:224:	CMD_RTPRIV_IOCTL_P2P_OPEN_POST,
+include/rtmp_cmd.h:225:	CMD_RTPRIV_IOCTL_P2P_IS_VALID,
+include/rtmp_cmd.h:226:	CMD_RTPRIV_IOCTL_P2P_CLOSE,
+include/rtmp_cmd.h:229:	CMD_RTPRIV_IOCTL_USB_MORE_FLAG_SET,
+include/rtmp_cmd.h:230:	CMD_RTPRIV_IOCTL_USB_CONFIG_INIT,
+include/rtmp_cmd.h:231:	CMD_RTPRIV_IOCTL_USB_SUSPEND,
+include/rtmp_cmd.h:232:	CMD_RTPRIV_IOCTL_USB_RESUME,
+include/rtmp_cmd.h:235:	CMD_RTPRIV_IOCTL_PCI_SUSPEND,
+include/rtmp_cmd.h:236:	CMD_RTPRIV_IOCTL_PCI_RESUME,
+include/rtmp_cmd.h:237:	CMD_RTPRIV_IOCTL_PCI_CSR_SET,
+include/rtmp_cmd.h:238:	CMD_RTPRIV_IOCTL_PCIE_INIT,
+include/rtmp_cmd.h:241:	CMD_RTPRIV_IOCTL_CFG80211_CFG_START,
+include/rtmp_cmd.h:244:	CMD_RTPRIV_IOCTL_INF_PPA_INIT,
+include/rtmp_cmd.h:245:	CMD_RTPRIV_IOCTL_INF_PPA_EXIT,
+include/rtmp_cmd.h:248:	CMD_RTPRIV_IOCTL_BEACON_UPDATE,
+include/rtmp_cmd.h:249:	CMD_RTPRIV_IOCTL_RXPATH_GET,
+include/rtmp_cmd.h:250:	CMD_RTPRIV_IOCTL_CHAN_LIST_NUM_GET,
+include/rtmp_cmd.h:251:	CMD_RTPRIV_IOCTL_CHAN_LIST_GET,
+include/rtmp_cmd.h:252:	CMD_RTPRIV_IOCTL_FREQ_LIST_GET,
+include/rtmp_cmd.h:255:	CMD_RTPRIV_IOCTL_VIRTUAL_INF_UP,
+include/rtmp_cmd.h:256:	CMD_RTPRIV_IOCTL_VIRTUAL_INF_DOWN,
+include/rtmp_cmd.h:257:	CMD_RTPRIV_IOCTL_VIRTUAL_INF_GET,
+include/rtmp_cmd.h:258:	CMD_RTPRIV_IOCTL_INF_TYPE_GET,
+include/rtmp_cmd.h:259:	CMD_RTPRIV_IOCTL_INF_STATS_GET,
+include/rtmp_cmd.h:260:	CMD_RTPRIV_IOCTL_INF_IW_STATUS_GET,
+include/rtmp_cmd.h:261:	CMD_RTPRIV_IOCTL_INF_MAIN_CREATE,
+include/rtmp_cmd.h:262:	CMD_RTPRIV_IOCTL_INF_MAIN_ID_GET,
+include/rtmp_cmd.h:263:	CMD_RTPRIV_IOCTL_INF_MAIN_CHECK,
+include/rtmp_cmd.h:264:	CMD_RTPRIV_IOCTL_INF_P2P_CHECK,
+include/rtmp_cmd.h:267:	CMD_RTPRIV_IOCTL_SIOCGIWFREQ,
+include/rtmp_cmd.h:268:	CMD_RTPRIV_IOCTL_SIOCGIWNAME,
+include/rtmp_cmd.h:271:	CMD_RTPRIV_IOCTL_WDS_INIT,
+include/rtmp_cmd.h:272:	CMD_RTPRIV_IOCTL_WDS_REMOVE,
+include/rtmp_cmd.h:273:	CMD_RTPRIV_IOCTL_WDS_STATS_GET,
+include/rtmp_cmd.h:275:	CMD_RTPRIV_IOCTL_MAC_ADDR_GET,
+include/rtmp_cmd.h:280:	CMD_RTPRIV_IOCTL_80211_START,
+include/rtmp_cmd.h:281:	CMD_RTPRIV_IOCTL_80211_CB_GET,
+include/rtmp_cmd.h:282:	CMD_RTPRIV_IOCTL_80211_CB_SET,
+include/rtmp_cmd.h:283:	CMD_RTPRIV_IOCTL_80211_CHAN_SET,
+include/rtmp_cmd.h:284:	CMD_RTPRIV_IOCTL_80211_VIF_CHG,
+include/rtmp_cmd.h:285:	CMD_RTPRIV_IOCTL_80211_SCAN,
+include/rtmp_cmd.h:286:	CMD_RTPRIV_IOCTL_80211_IBSS_JOIN,
+include/rtmp_cmd.h:287:	CMD_RTPRIV_IOCTL_80211_STA_LEAVE,
+include/rtmp_cmd.h:288:	CMD_RTPRIV_IOCTL_80211_STA_GET,
+include/rtmp_cmd.h:289:	CMD_RTPRIV_IOCTL_80211_KEY_ADD,
+include/rtmp_cmd.h:290:	CMD_RTPRIV_IOCTL_80211_KEY_DEFAULT_SET,
+include/rtmp_cmd.h:291:	CMD_RTPRIV_IOCTL_80211_CONNECT_TO,
+include/rtmp_cmd.h:292:	CMD_RTPRIV_IOCTL_80211_RFKILL,
+include/rtmp_cmd.h:293:	CMD_RTPRIV_IOCTL_80211_REG_NOTIFY_TO,
+include/rtmp_cmd.h:294:	CMD_RTPRIV_IOCTL_80211_UNREGISTER,
+include/rtmp_cmd.h:295:	CMD_RTPRIV_IOCTL_80211_BANDINFO_GET,
+include/rtmp_cmd.h:296:	CMD_RTPRIV_IOCTL_80211_SURVEY_GET,
+include/rtmp_cmd.h:297:	CMD_RTPRIV_IOCTL_80211_EXTRA_IES_SET,
+include/rtmp_cmd.h:298:	CMD_RTPRIV_IOCTL_80211_REMAIN_ON_CHAN_SET,
+include/rtmp_cmd.h:299:	CMD_RTPRIV_IOCTL_80211_MGMT_FRAME_REG,
+include/rtmp_cmd.h:300:	CMD_RTPRIV_IOCTL_80211_CHANNEL_LOCK,
+include/rtmp_cmd.h:301:	CMD_RTPRIV_IOCTL_80211_MGMT_FRAME_SEND,
+include/rtmp_cmd.h:302:	CMD_RTPRIV_IOCTL_80211_REMAIN_ON_CHAN_DUR_TIMER_INIT,
+include/rtmp_cmd.h:303:	CMD_RTPRIV_IOCTL_80211_CHANNEL_LIST_SET,
+include/rtmp_cmd.h:304:	CMD_RTPRIV_IOCTL_80211_ACTION_FRAME_REG,
+include/rtmp_cmd.h:305:	CMD_RTPRIV_IOCTL_80211_BEACON_ADD,
+include/rtmp_cmd.h:306:	CMD_RTPRIV_IOCTL_80211_BEACON_SET,
+include/rtmp_cmd.h:307:	CMD_RTPRIV_IOCTL_80211_BEACON_DEL,
+include/rtmp_cmd.h:308:	CMD_RTPRIV_IOCTL_80211_AP_KEY_ADD,
+include/rtmp_cmd.h:309:	CMD_RTPRIV_IOCTL_80211_CHANGE_BSS_PARM,
+include/rtmp_cmd.h:310:	CMD_RTPRIV_IOCTL_80211_AP_KEY_DEL,
+include/rtmp_cmd.h:311:	CMD_RTPRIV_IOCTL_80211_AP_PROBE_RSP,
+include/rtmp_cmd.h:312:	CMD_RTPRIV_IOCTL_80211_PORT_SECURED,
+include/rtmp_cmd.h:313:	CMD_RTPRIV_IOCTL_80211_AP_STA_DEL,
+include/rtmp_cmd.h:314:	CMD_RTPRIV_IOCTL_80211_CANCEL_REMAIN_ON_CHAN_SET,
+include/rtmp_cmd.h:315:	CMD_RTPRIV_IOCTL_80211_BITRATE_SET,
+include/rtmp_cmd.h:317:	CMD_RTPRIV_IOCTL_80211_SEND_WIRELESS_EVENT,
+include/rtmp_cmd.h:319:	CMD_RTPRIV_IOCTL_80211_END,
+include/rtmp_cmd.h:322:	CMD_RTPRIV_IOCTL_ADAPTER_CSO_SUPPORT_TEST,
+include/rtmp_cmd.h:323:	CMD_RTPRIV_IOCTL_ADAPTER_TSO_SUPPORT_TEST,
+include/rtmp_cmd.h:326:	CMD_RTPRIV_IOCTL_80211_COM_LATEST_ONE,
+include/rtmp_cmd.h:327:} CMD_RTPRIV_IOCTL_COMMON;
+include/rtmp_cmd.h:330:typedef struct __CMD_RTPRIV_IOCTL_80211_CHAN {
+include/rtmp_cmd.h:346:} CMD_RTPRIV_IOCTL_80211_CHAN;
+include/rtmp_cmd.h:353:typedef struct __CMD_RTPRIV_IOCTL_80211_IBSS {
+include/rtmp_cmd.h:357:} CMD_RTPRIV_IOCTL_80211_IBSS;
+include/rtmp_cmd.h:359:typedef struct __CMD_RTPRIV_IOCTL_80211_STA {
+include/rtmp_cmd.h:373:} CMD_RTPRIV_IOCTL_80211_STA;
+include/rtmp_cmd.h:375:typedef struct __CMD_RTPRIV_IOCTL_80211_KEY {
+include/rtmp_cmd.h:382:} CMD_RTPRIV_IOCTL_80211_KEY;
+include/rtmp_cmd.h:384:typedef struct __CMD_RTPRIV_IOCTL_80211_CONNECT {
+include/rtmp_cmd.h:403:} CMD_RTPRIV_IOCTL_80211_CONNECT;
+include/rtmp_cmd.h:405:typedef struct __CMD_RTPRIV_IOCTL_80211_REG_NOTIFY {
+include/rtmp_cmd.h:409:} CMD_RTPRIV_IOCTL_80211_REG_NOTIFY;
+include/rtmp_cmd.h:411:typedef struct __CMD_RTPRIV_IOCTL_80211_SURVEY {
+include/rtmp_cmd.h:417:} CMD_RTPRIV_IOCTL_80211_SURVEY;
+include/rtmp_cmd.h:423:typedef enum _CMD_RTPRIV_IOCTL_STATION {
+include/rtmp_cmd.h:426:	CMD_RTPRIV_IOCTL_PARAM_SET = 0xa000,
+include/rtmp_cmd.h:427:	CMD_RTPRIV_IOCTL_SITESURVEY_GET,
+include/rtmp_cmd.h:428:	CMD_RTPRIV_IOCTL_SITESURVEY,
+include/rtmp_cmd.h:429:	CMD_RTPRIV_IOCTL_ORI_DEV_TYPE_SET,
+include/rtmp_cmd.h:430:	CMD_RTPRIV_IOCTL_STA_SCAN_SANITY_CHECK,
+include/rtmp_cmd.h:431:	CMD_RTPRIV_IOCTL_STA_SCAN_END,
+include/rtmp_cmd.h:434:	CMD_RTPRIV_IOCTL_BSS_LIST_GET,
+include/rtmp_cmd.h:437:	CMD_RTPRIV_IOCTL_STA_SIOCSIWFREQ,
+include/rtmp_cmd.h:438:	CMD_RTPRIV_IOCTL_STA_SIOCGIWFREQ,
+include/rtmp_cmd.h:439:	CMD_RTPRIV_IOCTL_STA_SIOCSIWMODE,
+include/rtmp_cmd.h:440:	CMD_RTPRIV_IOCTL_STA_SIOCGIWMODE,
+include/rtmp_cmd.h:441:	CMD_RTPRIV_IOCTL_STA_SIOCSIWAP,
+include/rtmp_cmd.h:442:	CMD_RTPRIV_IOCTL_STA_SIOCGIWAP,
+include/rtmp_cmd.h:443:	CMD_RTPRIV_IOCTL_STA_SIOCSIWSCAN,
+include/rtmp_cmd.h:444:	CMD_RTPRIV_IOCTL_STA_SIOCGIWSCAN,
+include/rtmp_cmd.h:445:	CMD_RTPRIV_IOCTL_STA_SIOCSIWESSID,
+include/rtmp_cmd.h:446:	CMD_RTPRIV_IOCTL_STA_SIOCGIWESSID,
+include/rtmp_cmd.h:447:	CMD_RTPRIV_IOCTL_STA_SIOCSIWNICKN,
+include/rtmp_cmd.h:448:	CMD_RTPRIV_IOCTL_STA_SIOCGIWNICKN,
+include/rtmp_cmd.h:449:	CMD_RTPRIV_IOCTL_STA_SIOCSIWRTS,
+include/rtmp_cmd.h:450:	CMD_RTPRIV_IOCTL_STA_SIOCGIWRTS,
+include/rtmp_cmd.h:451:	CMD_RTPRIV_IOCTL_STA_SIOCSIWFRAG,
+include/rtmp_cmd.h:452:	CMD_RTPRIV_IOCTL_STA_SIOCGIWFRAG,
+include/rtmp_cmd.h:453:	CMD_RTPRIV_IOCTL_STA_SIOCSIWENCODE,
+include/rtmp_cmd.h:454:	CMD_RTPRIV_IOCTL_STA_SIOCGIWENCODE,
+include/rtmp_cmd.h:455:	CMD_RTPRIV_IOCTL_STA_SIOCSIWMLME,
+include/rtmp_cmd.h:456:	CMD_RTPRIV_IOCTL_STA_SIOCSIWAUTH,
+include/rtmp_cmd.h:457:	CMD_RTPRIV_IOCTL_STA_SIOCGIWAUTH,
+include/rtmp_cmd.h:458:	CMD_RTPRIV_IOCTL_STA_SIOCSIWENCODEEXT,
+include/rtmp_cmd.h:459:	CMD_RTPRIV_IOCTL_STA_SIOCGIWENCODEEXT,
+include/rtmp_cmd.h:460:	CMD_RTPRIV_IOCTL_STA_SIOCSIWGENIE,
+include/rtmp_cmd.h:461:	CMD_RTPRIV_IOCTL_STA_SIOCGIWGENIE,
+include/rtmp_cmd.h:462:	CMD_RTPRIV_IOCTL_STA_SIOCSIWPMKSA,
+include/rtmp_cmd.h:463:	CMD_RTPRIV_IOCTL_STA_SIOCSIWRATE,
+include/rtmp_cmd.h:464:	CMD_RTPRIV_IOCTL_STA_SIOCGIWRATE,
+include/rtmp_cmd.h:465:	CMD_RTPRIV_IOCTL_STA_SIOCGIFHWADDR,
+include/rtmp_cmd.h:466:	CMD_RTPRIV_IOCTL_STA_SIOCSIWPRIVRSSI,
+include/rtmp_cmd.h:468:	CMD_RTPRIV_IOCTL_STA_IW_SET_WSC_U32_ITEM,
+include/rtmp_cmd.h:469:	CMD_RTPRIV_IOCTL_STA_IW_SET_WSC_STR_ITEM,
+include/rtmp_cmd.h:470:	CMD_RTPRIV_IOCTL_STA_IW_GET_STATISTICS,
+include/rtmp_cmd.h:471:} CMD_RTPRIV_IOCTL_STATION;
+include/rtmp_cmd.h:583:typedef struct __RT_CMD_AP_IOCTL_CONFIG {
+include/rtmp_cmd.h:587:	IN INT32 CmdId_RTPRIV_IOCTL_SET;
+include/rtmp_cmd.h:592:} RT_CMD_AP_IOCTL_CONFIG;
+include/rtmp_cmd.h:594:typedef struct __RT_CMD_AP_IOCTL_SSID {
+include/rtmp_cmd.h:600:} RT_CMD_AP_IOCTL_SSID;
+include/rtmp_cmd.h:602:typedef struct __RT_CMD_IOCTL_RATE {
+include/rtmp_cmd.h:605:} RT_CMD_IOCTL_RATE;
+include/rtmp_cmd.h:612:typedef struct __RT_CMD_STA_IOCTL_FREQ {
+include/rtmp_cmd.h:615:} RT_CMD_STA_IOCTL_FREQ;
+include/rtmp_cmd.h:617:typedef struct __RT_CMD_STA_IOCTL_BSS {
+include/rtmp_cmd.h:622:} RT_CMD_STA_IOCTL_BSS;
+include/rtmp_cmd.h:624:typedef struct __RT_CMD_STA_IOCTL_BSS_LIST {
+include/rtmp_cmd.h:627:	OUT RT_CMD_STA_IOCTL_BSS *pList;
+include/rtmp_cmd.h:628:} RT_CMD_STA_IOCTL_BSS_LIST;
+include/rtmp_cmd.h:630:typedef struct __RT_CMD_STA_IOCTL_SCAN {
+include/rtmp_cmd.h:635:} RT_CMD_STA_IOCTL_SCAN;
+include/rtmp_cmd.h:637:typedef struct __RT_CMD_STA_IOCTL_BSS_TABLE {
+include/rtmp_cmd.h:665:	OUT RT_CMD_STA_IOCTL_BSS Signal;
+include/rtmp_cmd.h:666:} RT_CMD_STA_IOCTL_BSS_TABLE;
+include/rtmp_cmd.h:668:typedef struct __RT_CMD_STA_IOCTL_SCAN_TABLE {
+include/rtmp_cmd.h:671:	OUT RT_CMD_STA_IOCTL_BSS_TABLE *pBssTable;	/* must be freed by caller */
+include/rtmp_cmd.h:673:} RT_CMD_STA_IOCTL_SCAN_TABLE;
+include/rtmp_cmd.h:675:typedef struct __RT_CMD_STA_IOCTL_SSID {
+include/rtmp_cmd.h:680:} RT_CMD_STA_IOCTL_SSID;
+include/rtmp_cmd.h:682:typedef struct __RT_CMD_STA_IOCTL_NICK_NAME {
+include/rtmp_cmd.h:685:} RT_CMD_STA_IOCTL_NICK_NAME;
+include/rtmp_cmd.h:687:typedef struct __RT_CMD_STA_IOCTL_SECURITY {
+include/rtmp_cmd.h:693:#define RT_CMD_STA_IOCTL_SECURITY_ALG_NONE		0x01
+include/rtmp_cmd.h:694:#define RT_CMD_STA_IOCTL_SECURITY_ALG_WEP		0x02
+include/rtmp_cmd.h:695:#define RT_CMD_STA_IOCTL_SECURITY_ALG_TKIP		0x03
+include/rtmp_cmd.h:696:#define RT_CMD_STA_IOCTL_SECURITY_ALG_CCMP		0x04
+include/rtmp_cmd.h:699:#define RT_CMD_STA_IOCTL_SECURTIY_EXT_SET_TX_KEY	0x01
+include/rtmp_cmd.h:700:#define RT_CMD_STA_IOCTL_SECURTIY_EXT_GROUP_KEY		0x02
+include/rtmp_cmd.h:703:#define RT_CMD_STA_IOCTL_SECURITY_DISABLED		0x01
+include/rtmp_cmd.h:704:#define RT_CMD_STA_IOCTL_SECURITY_ENABLED		0x02
+include/rtmp_cmd.h:705:#define RT_CMD_STA_IOCTL_SECURITY_RESTRICTED	0x04
+include/rtmp_cmd.h:706:#define RT_CMD_STA_IOCTL_SECURITY_OPEN			0x08
+include/rtmp_cmd.h:707:#define RT_CMD_STA_IOCTL_SECURITY_NOKEY			0x10
+include/rtmp_cmd.h:708:#define RT_CMD_STA_IOCTL_SECURITY_MODE			0x20
+include/rtmp_cmd.h:712:} RT_CMD_STA_IOCTL_SECURITY;
+include/rtmp_cmd.h:714:typedef struct __RT_CMD_STA_IOCTL_WSC_U32_ITEM {
+include/rtmp_cmd.h:717:} RT_CMD_STA_IOCTL_WSC_U32_ITEM;
+include/rtmp_cmd.h:719:typedef struct __RT_CMD_STA_IOCTL_WSC_STR_ITEM {
+include/rtmp_cmd.h:725:} RT_CMD_STA_IOCTL_WSC_STR_ITEM;
+include/rtmp_cmd.h:727:typedef struct __RT_CMD_STA_IOCTL_SHOW {
+include/rtmp_cmd.h:731:} RT_CMD_STA_IOCTL_SHOW;
+include/rtmp_cmd.h:733:#define RT_CMD_STA_IOCTL_IW_MLME_DEAUTH		0x01
+include/rtmp_cmd.h:734:#define RT_CMD_STA_IOCTL_IW_MLME_DISASSOC	0x02
+include/rtmp_cmd.h:736:typedef struct __RT_CMD_STA_IOCTL_SECURITY_ADV {
+include/rtmp_cmd.h:738:#define RT_CMD_STA_IOCTL_WPA_VERSION					0x10
+include/rtmp_cmd.h:739:#define RT_CMD_STA_IOCTL_WPA_VERSION1				0x11
+include/rtmp_cmd.h:740:#define RT_CMD_STA_IOCTL_WPA_VERSION2				0x12
+include/rtmp_cmd.h:742:#define RT_CMD_STA_IOCTL_WPA_PAIRWISE					0x20
+include/rtmp_cmd.h:743:#define RT_CMD_STA_IOCTL_WPA_PAIRWISE_NONE			0x21
+include/rtmp_cmd.h:744:#define RT_CMD_STA_IOCTL_WPA_PAIRWISE_WEP40			0x22
+include/rtmp_cmd.h:745:#define RT_CMD_STA_IOCTL_WPA_PAIRWISE_WEP104		0x23
+include/rtmp_cmd.h:746:#define RT_CMD_STA_IOCTL_WPA_PAIRWISE_TKIP			0x24
+include/rtmp_cmd.h:747:#define RT_CMD_STA_IOCTL_WPA_PAIRWISE_CCMP			0x25
+include/rtmp_cmd.h:749:#define RT_CMD_STA_IOCTL_WPA_GROUP						0x30
+include/rtmp_cmd.h:750:#define RT_CMD_STA_IOCTL_WPA_GROUP_NONE				0x31
+include/rtmp_cmd.h:751:#define RT_CMD_STA_IOCTL_WPA_GROUP_WEP40			0x32
+include/rtmp_cmd.h:752:#define RT_CMD_STA_IOCTL_WPA_GROUP_WEP104			0x33
+include/rtmp_cmd.h:753:#define RT_CMD_STA_IOCTL_WPA_GROUP_TKIP				0x34
+include/rtmp_cmd.h:754:#define RT_CMD_STA_IOCTL_WPA_GROUP_CCMP				0x35
+include/rtmp_cmd.h:756:#define RT_CMD_STA_IOCTL_WPA_KEY_MGMT					0x40
+include/rtmp_cmd.h:757:#define RT_CMD_STA_IOCTL_WPA_KEY_MGMT_1X			0x41
+include/rtmp_cmd.h:758:#define RT_CMD_STA_IOCTL_WPA_KEY_MGMT_WPS			0x42
+include/rtmp_cmd.h:760:#define RT_CMD_STA_IOCTL_WPA_AUTH_RX_UNENCRYPTED_EAPOL	0x50
+include/rtmp_cmd.h:761:#define RT_CMD_STA_IOCTL_WPA_AUTH_PRIVACY_INVOKED		0x60
+include/rtmp_cmd.h:762:#define RT_CMD_STA_IOCTL_WPA_AUTH_DROP_UNENCRYPTED		0x70
+include/rtmp_cmd.h:764:#define RT_CMD_STA_IOCTL_WPA_AUTH_80211_AUTH_ALG		0x80
+include/rtmp_cmd.h:765:#define RT_CMD_STA_IOCTL_WPA_AUTH_80211_AUTH_ALG_SHARED		0x81
+include/rtmp_cmd.h:766:#define RT_CMD_STA_IOCTL_WPA_AUTH_80211_AUTH_ALG_OPEN		0x82
+include/rtmp_cmd.h:767:#define RT_CMD_STA_IOCTL_WPA_AUTH_80211_AUTH_ALG_LEAP		0x83
+include/rtmp_cmd.h:769:#define RT_CMD_STA_IOCTL_WPA_AUTH_WPA_ENABLED			0x90
+include/rtmp_cmd.h:771:#define RT_CMD_STA_IOCTL_WPA_AUTH_COUNTERMEASURES			0xA0
+include/rtmp_cmd.h:775:} RT_CMD_STA_IOCTL_SECURITY_ADV;
+include/rtmp_cmd.h:777:typedef struct __RT_CMD_STA_IOCTL_RSN_IE {
+include/rtmp_cmd.h:780:} RT_CMD_STA_IOCTL_RSN_IE;
+include/rtmp_cmd.h:782:typedef struct __RT_CMD_STA_IOCTL_PMA_SA {
+include/rtmp_cmd.h:783:#define RT_CMD_STA_IOCTL_PMA_SA_FLUSH					0x01
+include/rtmp_cmd.h:784:#define RT_CMD_STA_IOCTL_PMA_SA_REMOVE					0x02
+include/rtmp_cmd.h:785:#define RT_CMD_STA_IOCTL_PMA_SA_ADD						0x03
+include/rtmp_cmd.h:789:} RT_CMD_STA_IOCTL_PMA_SA;
+include/rt_os_net.h:51:	IN	RTMP_IOCTL_INPUT_STRUCT *wrq,
+include/rt_os_net.h:91:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+include/rt_os_net.h:99:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+include/rt_os_net.h:207:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+include/rt_os_net.h:249:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+include/rt_os_net.h:279:	if (RTMP_COM_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_VIRTUAL_INF_UP,
+include/rt_os_net.h:288:	RTMP_COM_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_VIRTUAL_INF_DOWN,
+include/rt_os_net.h:409:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_NETDEV_GET, 0, __pNetDev, 0)
+include/rt_os_net.h:412:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_NETDEV_SET, 0, __pNetDev, 0)
+include/rt_os_net.h:415:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_OPMODE_GET, 0, __pOpMode, 0)
+include/rt_os_net.h:418:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_INF_IW_STATUS_GET, 0, __pIwStats, 0)
+include/rt_os_net.h:421:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_INF_STATS_GET, 0, __pInfStats, 0)
+include/rt_os_net.h:424:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_INF_TYPE_GET, 0, __pInfType, 0)
+include/rt_os_net.h:427:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_TASK_LIST_GET, 0, __pList, 0)
+include/rt_os_net.h:430:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_NIC_NOT_EXIST, 0, NULL, 0)
+include/rt_os_net.h:433:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_MCU_SLEEP_CLEAR, 0, NULL, 0)
+include/rt_os_net.h:437:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_MAX_IN_BIT, 0, NULL, __MaxInBit)
+include/rt_os_net.h:444:        RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_USB_DEV_GET, 0, __pUsbDev, 0)
+include/rt_os_net.h:447:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_ADAPTER_SEND_DISSASSOCIATE, 0, NULL, 0)
+include/rt_os_net.h:450:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_ADAPTER_SUSPEND_TEST, 0,  __flag, 0)
+include/rt_os_net.h:453:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_ADAPTER_IDLE_RADIO_OFF_TEST, 0,  __flag, 0)
+include/rt_os_net.h:458:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_ADAPTER_RT28XX_WOW_STATUS, 0, __flag, 0)
+include/rt_os_net.h:461:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_ADAPTER_RT28XX_WOW_ENABLE, 0, NULL, 0)
+include/rt_os_net.h:464:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_ADAPTER_RT28XX_WOW_DISABLE, 0, NULL, 0)
+include/rt_os_net.h:469:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_AP_BSSID_GET, 0, pData, 0)
+include/rt_os_net.h:473:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_ADAPTER_RT28XX_USB_ASICRADIO_OFF, 0, NULL, 0)
+include/rt_os_net.h:476:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_ADAPTER_RT28XX_USB_ASICRADIO_ON, 0, NULL, 0)
+include/rt_os_net.h:479:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_ADAPTER_SUSPEND_SET, 0, NULL, 0)
+include/rt_os_net.h:482:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_ADAPTER_SUSPEND_CLEAR, 0, NULL, 0)
+include/rt_os_net.h:485:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_VIRTUAL_INF_GET, 0, __pIfNum, 0)
+include/rt_os_net.h:488:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_SIOCGIWFREQ, 0, __Channel, 0)
+include/rt_os_net.h:490:#define RTMP_DRIVER_IOCTL_SANITY_CHECK(__pAd, __SetCmd)								\
+include/rt_os_net.h:491:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_SANITY_CHECK, 0, __SetCmd, 0)
+include/rt_os_net.h:494:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_AP_SIOCGIWRATEQ, 0, __pBitRate, 0)
+include/rt_os_net.h:497:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_INF_MAIN_CREATE, 0, __ppNetDev, 0)
+include/rt_os_net.h:500:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_INF_MAIN_ID_GET, 0, __pInfId, 0)
+include/rt_os_net.h:503:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_INF_MAIN_CHECK, 0, NULL, __InfId)
+include/rt_os_net.h:506:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_INF_P2P_CHECK, 0, NULL, __InfId)
+include/rt_os_net.h:515:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_CFG80211_CFG_START, 0, NULL, 0)
+include/rt_os_net.h:520:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_80211_CB_GET, 0, __ppCB, 0)
+include/rt_os_net.h:522:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_80211_CB_SET, 0, __pCB, 0)
+include/rt_os_net.h:524:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_80211_CHAN_SET, 0, __pChan, 0)
+include/rt_os_net.h:526:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_80211_VIF_CHG, 0, &__Filter, __IfType)
+include/rt_os_net.h:528:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_80211_SCAN, 0, NULL, 0)
+include/rt_os_net.h:530:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_80211_IBSS_JOIN, 0, __pInfo, 0)
+include/rt_os_net.h:532:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_80211_STA_LEAVE, 0, NULL, 0)
+include/rt_os_net.h:534:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_80211_STA_GET, 0, __pStaInfo, 0)
+include/rt_os_net.h:536:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_80211_KEY_ADD, 0, __pKeyInfo, 0)
+include/rt_os_net.h:538:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_80211_KEY_DEFAULT_SET, 0, NULL, __KeyId)
+include/rt_os_net.h:540:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_80211_CONNECT_TO, 0, __pConnInfo, 0)
+include/rt_os_net.h:542:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_80211_RFKILL, 0, __pActive, 0)
+include/rt_os_net.h:544:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_80211_REG_NOTIFY_TO, 0, __pNotify, 0)
+include/rt_os_net.h:546:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_80211_UNREGISTER, 0, __pNetDev, 0)
+include/rt_os_net.h:548:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_80211_BANDINFO_GET, 0, __pBandInfo, 0)
+include/rt_os_net.h:550:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_80211_SURVEY_GET, 0, __pSurveyInfo, 0)
+include/rt_os_net.h:552:	RTMP_STA_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCSIWPMKSA, 0, __pPmkidInfo, 0, 0);
+include/rt_os_net.h:557:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_MESH_REMOVE, 0, NULL, 0)
+include/rt_os_net.h:561:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_INF_PPA_INIT, 0, NULL, 0)
+include/rt_os_net.h:564:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_INF_PPA_EXIT, 0, NULL, 0)
+include/rt_os_net.h:568:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_IRQ_INIT, 0, NULL, 0)
+include/rt_os_net.h:571:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_IRQ_RELEASE, 0, NULL, 0)
+include/rt_os_net.h:574:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_MSI_ENABLE, 0, __pPciDev, 0)
+include/rt_os_net.h:577:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_PCI_SUSPEND, 0, NULL, 0)
+include/rt_os_net.h:580:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_PCI_RESUME, 0, NULL, 0)
+include/rt_os_net.h:583:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_PCI_CSR_SET, 0, NULL, __Address)
+include/rt_os_net.h:592:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_PCIE_INIT, 0, __pConfig, 0);\
+include/rt_os_net.h:597:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_USB_MORE_FLAG_SET, 0, __pConfig, 0)
+include/rt_os_net.h:600:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_USB_CONFIG_INIT, 0, __pConfig, 0)
+include/rt_os_net.h:603:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_USB_SUSPEND, 0, NULL, __bIsRunning)
+include/rt_os_net.h:606:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_USB_RESUME, 0, NULL, 0)
+include/rt_os_net.h:610:	RTMP_AP_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_AP_SIOCGIWRATEQ, 0, __pConfig, 0)
+include/rt_os_net.h:613:	RTMP_AP_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_MAIN_OPEN, 0, NULL, 0)
+include/rt_os_net.h:617:	RTMP_STA_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_ORI_DEV_TYPE_SET, 0, NULL, __Type, __Type)
+include/rt_os_net.h:620:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_MAC_ADDR_GET, 0, __pMacAddr, 0)
+include/rt_os_net.h:623:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_ADAPTER_CSO_SUPPORT_TEST, 0,  __flag, 0)
+include/rt_os_net.h:626:	RTMP_COM_IoctlHandle(__pAd, NULL, CMD_RTPRIV_IOCTL_ADAPTER_TSO_SUPPORT_TEST, 0,  __flag, 0)
+os/linux/rt_main_dev.c:169:	while (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/rt_main_dev.c:816:			if (RTMP_COM_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_WDS_STATS_GET,
+os/linux/cfg80211.c:227:	CMD_RTPRIV_IOCTL_80211_CHAN ChanInfo;
+os/linux/cfg80211.c:439:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/cfg80211.c:513:	CMD_RTPRIV_IOCTL_80211_IBSS IbssInfo;
+os/linux/cfg80211.c:693:	CMD_RTPRIV_IOCTL_80211_STA StaInfo;
+os/linux/cfg80211.c:849:	CMD_RTPRIV_IOCTL_80211_KEY KeyInfo;
+os/linux/cfg80211.c:1070:	CMD_RTPRIV_IOCTL_80211_CONNECT ConnInfo;
+os/linux/cfg80211.c:1246:	CMD_RTPRIV_IOCTL_80211_SURVEY SurveyInfo;
+os/linux/cfg80211.c:1305:	RT_CMD_STA_IOCTL_PMA_SA IoctlPmaSa, *pIoctlPmaSa = &IoctlPmaSa;
+os/linux/cfg80211.c:1315:	pIoctlPmaSa->Cmd = RT_CMD_STA_IOCTL_PMA_SA_ADD;
+os/linux/cfg80211.c:1350:	RT_CMD_STA_IOCTL_PMA_SA IoctlPmaSa, *pIoctlPmaSa = &IoctlPmaSa;
+os/linux/cfg80211.c:1360:	pIoctlPmaSa->Cmd = RT_CMD_STA_IOCTL_PMA_SA_REMOVE;
+os/linux/cfg80211.c:1393:	RT_CMD_STA_IOCTL_PMA_SA IoctlPmaSa, *pIoctlPmaSa = &IoctlPmaSa;
+os/linux/cfg80211.c:1399:	pIoctlPmaSa->Cmd = RT_CMD_STA_IOCTL_PMA_SA_FLUSH;
+os/linux/cfg80211.c:1802:		CMD_RTPRIV_IOCTL_80211_REG_NOTIFY RegInfo;
+os/linux/cfg80211.c:1910:		CMD_RTPRIV_IOCTL_80211_REG_NOTIFY RegInfo;
+이진파일 os/linux/rt_main_dev.o 와(과) 일치
+이진파일 os/linux/usb_main_dev.o 와(과) 일치
+os/linux/cfg80211drv.c:46:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+os/linux/cfg80211drv.c:57:		case CMD_RTPRIV_IOCTL_80211_START:
+os/linux/cfg80211drv.c:58:		case CMD_RTPRIV_IOCTL_80211_END:
+os/linux/cfg80211drv.c:62:		case CMD_RTPRIV_IOCTL_80211_CB_GET:
+os/linux/cfg80211drv.c:66:		case CMD_RTPRIV_IOCTL_80211_CB_SET:
+os/linux/cfg80211drv.c:70:		case CMD_RTPRIV_IOCTL_80211_CHAN_SET:
+os/linux/cfg80211drv.c:75:		case CMD_RTPRIV_IOCTL_80211_VIF_CHG:
+os/linux/cfg80211drv.c:80:		case CMD_RTPRIV_IOCTL_80211_SCAN:
+os/linux/cfg80211drv.c:84:		case CMD_RTPRIV_IOCTL_80211_IBSS_JOIN:
+os/linux/cfg80211drv.c:88:		case CMD_RTPRIV_IOCTL_80211_STA_LEAVE:
+os/linux/cfg80211drv.c:92:		case CMD_RTPRIV_IOCTL_80211_STA_GET:
+os/linux/cfg80211drv.c:97:		case CMD_RTPRIV_IOCTL_80211_KEY_ADD:
+os/linux/cfg80211drv.c:101:		case CMD_RTPRIV_IOCTL_80211_KEY_DEFAULT_SET:
+os/linux/cfg80211drv.c:107:		case CMD_RTPRIV_IOCTL_80211_CONNECT_TO:
+os/linux/cfg80211drv.c:112:		case CMD_RTPRIV_IOCTL_80211_RFKILL:
+os/linux/cfg80211drv.c:132:		case CMD_RTPRIV_IOCTL_80211_REG_NOTIFY_TO:
+os/linux/cfg80211drv.c:136:		case CMD_RTPRIV_IOCTL_80211_UNREGISTER:
+os/linux/cfg80211drv.c:140:		case CMD_RTPRIV_IOCTL_80211_BANDINFO_GET:
+os/linux/cfg80211drv.c:147:		case CMD_RTPRIV_IOCTL_80211_SURVEY_GET:
+os/linux/cfg80211drv.c:151:		case CMD_RTPRIV_IOCTL_80211_EXTRA_IES_SET:
+os/linux/cfg80211drv.c:155:		case CMD_RTPRIV_IOCTL_80211_REMAIN_ON_CHAN_SET: 		
+os/linux/cfg80211drv.c:158:		case CMD_RTPRIV_IOCTL_80211_CANCEL_REMAIN_ON_CHAN_SET:
+os/linux/cfg80211drv.c:162:		case CMD_RTPRIV_IOCTL_80211_MGMT_FRAME_REG:
+os/linux/cfg80211drv.c:178:		case CMD_RTPRIV_IOCTL_80211_ACTION_FRAME_REG:
+os/linux/cfg80211drv.c:192:		case CMD_RTPRIV_IOCTL_80211_CHANNEL_LOCK:
+os/linux/cfg80211drv.c:194:			//DBGPRINT(RT_DEBUG_TRACE, ("CMD_RTPRIV_IOCTL_80211_CHANNEL_LOCK %d\n", Data));
+os/linux/cfg80211drv.c:203:		case CMD_RTPRIV_IOCTL_80211_MGMT_FRAME_SEND:
+os/linux/cfg80211drv.c:320:		case CMD_RTPRIV_IOCTL_80211_REMAIN_ON_CHAN_DUR_TIMER_INIT:
+os/linux/cfg80211drv.c:325:		case CMD_RTPRIV_IOCTL_80211_CHANNEL_LIST_SET:
+os/linux/cfg80211drv.c:326:			DBGPRINT(RT_DEBUG_TRACE, ("CMD_RTPRIV_IOCTL_80211_CHANNEL_LIST_SET: %d\n", Data));
+os/linux/cfg80211drv.c:349:		case CMD_RTPRIV_IOCTL_80211_BEACON_SET:
+os/linux/cfg80211drv.c:353:		case CMD_RTPRIV_IOCTL_80211_BEACON_ADD:
+os/linux/cfg80211drv.c:357:		case CMD_RTPRIV_IOCTL_80211_BEACON_DEL:
+os/linux/cfg80211drv.c:363:		case CMD_RTPRIV_IOCTL_80211_CHANGE_BSS_PARM:
+os/linux/cfg80211drv.c:367:		case CMD_RTPRIV_IOCTL_80211_AP_PROBE_RSP:
+os/linux/cfg80211drv.c:390:		case CMD_RTPRIV_IOCTL_80211_PORT_SECURED:
+os/linux/cfg80211drv.c:394:		case CMD_RTPRIV_IOCTL_80211_AP_STA_DEL:
+os/linux/cfg80211drv.c:397:		case CMD_RTPRIV_IOCTL_80211_BITRATE_SET:
+os/linux/cfg80211drv.c:403:		case CMD_RTPRIV_IOCTL_80211_SEND_WIRELESS_EVENT:
+os/linux/cfg80211drv.c:457:	CMD_RTPRIV_IOCTL_80211_BSS_PARM *pBssInfo;
+os/linux/cfg80211drv.c:462:	pBssInfo = (CMD_RTPRIV_IOCTL_80211_BSS_PARM *)pData;	
+os/linux/cfg80211drv.c:491:	CMD_RTPRIV_IOCTL_80211_CHAN *pChan;
+os/linux/cfg80211drv.c:503:	pChan = (CMD_RTPRIV_IOCTL_80211_CHAN *)pData;
+os/linux/cfg80211drv.c:710:        CMD_RTPRIV_IOCTL_80211_BEACON *pBeacon;
+os/linux/cfg80211drv.c:726:	pBeacon = (CMD_RTPRIV_IOCTL_80211_BEACON *)pData;
+os/linux/cfg80211drv.c:1104:	CMD_RTPRIV_IOCTL_80211_IBSS *pIbssInfo;
+os/linux/cfg80211drv.c:1107:	pIbssInfo = (CMD_RTPRIV_IOCTL_80211_IBSS *)pData;
+os/linux/cfg80211drv.c:1137:	CMD_RTPRIV_IOCTL_80211_STA *pIbssInfo;
+os/linux/cfg80211drv.c:1140:	pIbssInfo = (CMD_RTPRIV_IOCTL_80211_STA *)pData;
+os/linux/cfg80211drv.c:1198:	CMD_RTPRIV_IOCTL_80211_KEY *pKeyInfo;
+os/linux/cfg80211drv.c:1201:	pKeyInfo = (CMD_RTPRIV_IOCTL_80211_KEY *)pData;
+os/linux/cfg80211drv.c:1239:	CMD_RTPRIV_IOCTL_80211_CONNECT *pConnInfo;
+os/linux/cfg80211drv.c:1244:	pConnInfo = (CMD_RTPRIV_IOCTL_80211_CONNECT *)pData;
+os/linux/cfg80211drv.c:1371:	CMD_RTPRIV_IOCTL_80211_REG_NOTIFY *pRegInfo;
+os/linux/cfg80211drv.c:1374:	pRegInfo = (CMD_RTPRIV_IOCTL_80211_REG_NOTIFY *)pData;
+os/linux/cfg80211drv.c:1398:	CMD_RTPRIV_IOCTL_80211_SURVEY *pSurveyInfo;
+os/linux/cfg80211drv.c:1401:	pSurveyInfo = (CMD_RTPRIV_IOCTL_80211_SURVEY *)pData;
+os/linux/cfg80211drv.c:1987://CMD_RTPRIV_IOCTL_80211_KEY_DEFAULT_SET:
+os/linux/sta_ioctl.c:69:{ RTPRIV_IOCTL_SET, 
+os/linux/sta_ioctl.c:73:{ RTPRIV_IOCTL_SHOW, IW_PRIV_TYPE_CHAR | 1024, IW_PRIV_TYPE_CHAR | IW_PRIV_SIZE_MASK,
+os/linux/sta_ioctl.c:103:{ RTPRIV_IOCTL_BBP,
+os/linux/sta_ioctl.c:106:{ RTPRIV_IOCTL_MAC,
+os/linux/sta_ioctl.c:110:{ RTPRIV_IOCTL_RF,
+os/linux/sta_ioctl.c:114:{ RTPRIV_IOCTL_E2P,
+os/linux/sta_ioctl.c:119:{ RTPRIV_IOCTL_STATISTICS,
+os/linux/sta_ioctl.c:122:{ RTPRIV_IOCTL_GSITESURVEY,
+os/linux/sta_ioctl.c:153:	RT_CMD_STA_IOCTL_FREQ IoctlFreq, *pIoctlFreq = &IoctlFreq;
+os/linux/sta_ioctl.c:159:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:173:	if (RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCSIWFREQ, 0,
+os/linux/sta_ioctl.c:200:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:206:	RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCGIWFREQ, 0,
+os/linux/sta_ioctl.c:228:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:249:	RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCSIWMODE, 0,
+os/linux/sta_ioctl.c:273:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:280:	RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCGIWMODE, 0,
+os/linux/sta_ioctl.c:308:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:348:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:362:	RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCGIWMODE, 0,
+os/linux/sta_ioctl.c:387:	RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_CHAN_LIST_NUM_GET, 0,
+os/linux/sta_ioctl.c:401:	RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_CHAN_LIST_GET, 0,
+os/linux/sta_ioctl.c:403:	RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_FREQ_LIST_GET, 0,
+os/linux/sta_ioctl.c:497:		RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCSIWPRIVRSSI,
+os/linux/sta_ioctl.c:508:		RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCGIFHWADDR,
+os/linux/sta_ioctl.c:553:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:560:	RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCSIWAP, 0,
+os/linux/sta_ioctl.c:565:    DBGPRINT(RT_DEBUG_TRACE, ("IOCTL::SIOCSIWAP %02x:%02x:%02x:%02x:%02x:%02x\n",
+os/linux/sta_ioctl.c:588:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:595:	if (RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCGIWAP, 0,
+os/linux/sta_ioctl.c:599:		DBGPRINT(RT_DEBUG_TRACE, ("IOCTL::SIOCGIWAP(=EMPTY)\n"));
+os/linux/sta_ioctl.c:625:						RT_CMD_STA_IOCTL_BSS *pBss)
+os/linux/sta_ioctl.c:656:	RT_CMD_STA_IOCTL_BSS_LIST BssList, *pBssList = &BssList;
+os/linux/sta_ioctl.c:657:	RT_CMD_STA_IOCTL_BSS *pList;
+os/linux/sta_ioctl.c:663:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:672:	os_alloc_mem(NULL, (UCHAR **)&(pBssList->pList), sizeof(RT_CMD_STA_IOCTL_BSS_LIST) * IW_MAX_AP);
+os/linux/sta_ioctl.c:688:	RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_BSS_LIST_GET, 0,
+os/linux/sta_ioctl.c:717:	RT_CMD_STA_IOCTL_SCAN IoctlScan, *pIoctlScan = &IoctlScan;
+os/linux/sta_ioctl.c:728:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:736:	memset(pIoctlScan, 0, sizeof(RT_CMD_STA_IOCTL_SCAN));
+os/linux/sta_ioctl.c:745:	RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCSIWSCAN, 0,
+os/linux/sta_ioctl.c:767:	RT_CMD_STA_IOCTL_SCAN_TABLE IoctlScan, *pIoctlScan = &IoctlScan;
+os/linux/sta_ioctl.c:775:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:786:	if (RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCGIWSCAN, 0,
+os/linux/sta_ioctl.c:858:		RT_CMD_STA_IOCTL_BSS_TABLE *pBssEntry=&pIoctlScan->pBssTable[i];
+os/linux/sta_ioctl.c:987:			RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_CHID_2_FREQ, 0,
+os/linux/sta_ioctl.c:1223:	RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SCAN_END, 0,
+os/linux/sta_ioctl.c:1239:	RT_CMD_STA_IOCTL_SSID IoctlEssid, *pIoctlEssid = &IoctlEssid;
+os/linux/sta_ioctl.c:1245:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:1263:	RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCSIWESSID, 0,
+os/linux/sta_ioctl.c:1275:	RT_CMD_STA_IOCTL_SSID IoctlEssid, *pIoctlEssid = &IoctlEssid;
+os/linux/sta_ioctl.c:1288:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:1299:	RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCGIWESSID, 0,
+os/linux/sta_ioctl.c:1317:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:1327:	RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCSIWNICKN, 0,
+os/linux/sta_ioctl.c:1337:	RT_CMD_STA_IOCTL_NICK_NAME NickName, *pNickName = &NickName;
+os/linux/sta_ioctl.c:1350:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:1361:	RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCGIWNICKN, 0,
+os/linux/sta_ioctl.c:1379:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:1397:	RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCSIWRTS, 0,
+os/linux/sta_ioctl.c:1420:		if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:1426:	RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCGIWRTS, 0,
+os/linux/sta_ioctl.c:1446:		if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:1462:	RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCSIWFRAG, 0,
+os/linux/sta_ioctl.c:1485:		if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:1491:	RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCGIWFRAG, 0,
+os/linux/sta_ioctl.c:1507:	RT_CMD_STA_IOCTL_SECURITY IoctlSec, *pIoctlSec = &IoctlSec;
+os/linux/sta_ioctl.c:1513:		if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:1526:		pIoctlSec->flags |= RT_CMD_STA_IOCTL_SECURITY_DISABLED;
+os/linux/sta_ioctl.c:1528:		pIoctlSec->flags |= RT_CMD_STA_IOCTL_SECURITY_RESTRICTED;
+os/linux/sta_ioctl.c:1530:		pIoctlSec->flags |= RT_CMD_STA_IOCTL_SECURITY_OPEN;
+os/linux/sta_ioctl.c:1532:		pIoctlSec->flags |= RT_CMD_STA_IOCTL_SECURITY_NOKEY;
+os/linux/sta_ioctl.c:1534:		pIoctlSec->flags |= RT_CMD_STA_IOCTL_SECURITY_MODE;
+os/linux/sta_ioctl.c:1538:	RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCSIWENCODE, 0,
+os/linux/sta_ioctl.c:1551:	RT_CMD_STA_IOCTL_SECURITY IoctlSec, *pIoctlSec = &IoctlSec;
+os/linux/sta_ioctl.c:1564:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:1575:	RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCGIWENCODE, 0,
+os/linux/sta_ioctl.c:1580:	if (pIoctlSec->flags & RT_CMD_STA_IOCTL_SECURITY_DISABLED)
+os/linux/sta_ioctl.c:1581:		erq->flags = RT_CMD_STA_IOCTL_SECURITY_DISABLED;
+os/linux/sta_ioctl.c:1583:		if (pIoctlSec->flags & RT_CMD_STA_IOCTL_SECURITY_ENABLED)
+os/linux/sta_ioctl.c:1585:		if (pIoctlSec->flags & RT_CMD_STA_IOCTL_SECURITY_RESTRICTED)
+os/linux/sta_ioctl.c:1587:		if (pIoctlSec->flags & RT_CMD_STA_IOCTL_SECURITY_OPEN)
+os/linux/sta_ioctl.c:1623:		if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, this_char) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:1643:	RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_PARAM_SET, 0,
+os/linux/sta_ioctl.c:1663:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:1678:	RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_IW_GET_STATISTICS, 0,
+os/linux/sta_ioctl.c:1692:	RTMP_IOCTL_INPUT_STRUCT wrqin;
+os/linux/sta_ioctl.c:1697:	RT_CMD_STA_IOCTL_SHOW IoctlShow, *pIoctlShow = &IoctlShow;
+os/linux/sta_ioctl.c:1724:	RTMP_STA_IoctlHandle(pAd, &wrqin, CMD_RTPRIV_IOCTL_SHOW, subcmd,
+os/linux/sta_ioctl.c:1751:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:1765:			Subcmd = RT_CMD_STA_IOCTL_IW_MLME_DEAUTH;
+os/linux/sta_ioctl.c:1770:			Subcmd = RT_CMD_STA_IOCTL_IW_MLME_DISASSOC;
+os/linux/sta_ioctl.c:1778:	RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCSIWMLME, Subcmd,
+os/linux/sta_ioctl.c:1793:	RT_CMD_STA_IOCTL_SECURITY_ADV IoctlWpa, *pIoctlWpa = &IoctlWpa;
+os/linux/sta_ioctl.c:1799:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:1811:			pIoctlWpa->flags = RT_CMD_STA_IOCTL_WPA_VERSION;
+os/linux/sta_ioctl.c:1813:				pIoctlWpa->value = RT_CMD_STA_IOCTL_WPA_VERSION1;
+os/linux/sta_ioctl.c:1815:				pIoctlWpa->value = RT_CMD_STA_IOCTL_WPA_VERSION2;
+os/linux/sta_ioctl.c:1820:			pIoctlWpa->flags = RT_CMD_STA_IOCTL_WPA_PAIRWISE;
+os/linux/sta_ioctl.c:1822:                pIoctlWpa->value = RT_CMD_STA_IOCTL_WPA_PAIRWISE_NONE;
+os/linux/sta_ioctl.c:1824:				pIoctlWpa->value = RT_CMD_STA_IOCTL_WPA_PAIRWISE_WEP40;
+os/linux/sta_ioctl.c:1826:                pIoctlWpa->value = RT_CMD_STA_IOCTL_WPA_PAIRWISE_WEP104;
+os/linux/sta_ioctl.c:1828:                pIoctlWpa->value = RT_CMD_STA_IOCTL_WPA_PAIRWISE_TKIP;
+os/linux/sta_ioctl.c:1830:                pIoctlWpa->value = RT_CMD_STA_IOCTL_WPA_PAIRWISE_CCMP;
+os/linux/sta_ioctl.c:1834:			pIoctlWpa->flags = RT_CMD_STA_IOCTL_WPA_GROUP;
+os/linux/sta_ioctl.c:1836:				pIoctlWpa->value = RT_CMD_STA_IOCTL_WPA_GROUP_NONE;
+os/linux/sta_ioctl.c:1838:				pIoctlWpa->value = RT_CMD_STA_IOCTL_WPA_GROUP_WEP40;
+os/linux/sta_ioctl.c:1840:				pIoctlWpa->value = RT_CMD_STA_IOCTL_WPA_GROUP_WEP104;
+os/linux/sta_ioctl.c:1842:				pIoctlWpa->value = RT_CMD_STA_IOCTL_WPA_GROUP_TKIP;
+os/linux/sta_ioctl.c:1844:				pIoctlWpa->value = RT_CMD_STA_IOCTL_WPA_GROUP_CCMP;
+os/linux/sta_ioctl.c:1848:			pIoctlWpa->flags = RT_CMD_STA_IOCTL_WPA_KEY_MGMT;
+os/linux/sta_ioctl.c:1850:				pIoctlWpa->value = RT_CMD_STA_IOCTL_WPA_KEY_MGMT_1X;
+os/linux/sta_ioctl.c:1854:			pIoctlWpa->flags = RT_CMD_STA_IOCTL_WPA_AUTH_RX_UNENCRYPTED_EAPOL;
+os/linux/sta_ioctl.c:1857:			pIoctlWpa->flags = RT_CMD_STA_IOCTL_WPA_AUTH_PRIVACY_INVOKED;
+os/linux/sta_ioctl.c:1861:			pIoctlWpa->flags = RT_CMD_STA_IOCTL_WPA_AUTH_DROP_UNENCRYPTED;
+os/linux/sta_ioctl.c:1865:			pIoctlWpa->flags = RT_CMD_STA_IOCTL_WPA_AUTH_80211_AUTH_ALG;
+os/linux/sta_ioctl.c:1867:				pIoctlWpa->value = RT_CMD_STA_IOCTL_WPA_AUTH_80211_AUTH_ALG_SHARED;
+os/linux/sta_ioctl.c:1869:				pIoctlWpa->value = RT_CMD_STA_IOCTL_WPA_AUTH_80211_AUTH_ALG_OPEN;
+os/linux/sta_ioctl.c:1871:				pIoctlWpa->value = RT_CMD_STA_IOCTL_WPA_AUTH_80211_AUTH_ALG_LEAP;
+os/linux/sta_ioctl.c:1875:			pIoctlWpa->flags = RT_CMD_STA_IOCTL_WPA_AUTH_WPA_ENABLED;
+os/linux/sta_ioctl.c:1879:		pIoctlWpa->flags = RT_CMD_STA_IOCTL_WPA_AUTH_COUNTERMEASURES;
+os/linux/sta_ioctl.c:1887:	RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCSIWAUTH, 0,
+os/linux/sta_ioctl.c:1899:	RT_CMD_STA_IOCTL_SECURITY_ADV IoctlWpa, *pIoctlWpa = &IoctlWpa;
+os/linux/sta_ioctl.c:1905:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:1917:		pIoctlWpa->flags = RT_CMD_STA_IOCTL_WPA_AUTH_DROP_UNENCRYPTED;
+os/linux/sta_ioctl.c:1921:		pIoctlWpa->flags = RT_CMD_STA_IOCTL_WPA_AUTH_80211_AUTH_ALG;
+os/linux/sta_ioctl.c:1925:		pIoctlWpa->flags = RT_CMD_STA_IOCTL_WPA_AUTH_WPA_ENABLED;
+os/linux/sta_ioctl.c:1932:	RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCGIWAUTH, 0,
+os/linux/sta_ioctl.c:1963:	RT_CMD_STA_IOCTL_SECURITY IoctlSec, *pIoctlSec = &IoctlSec;
+os/linux/sta_ioctl.c:1969:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:1980:		pIoctlSec->Alg = RT_CMD_STA_IOCTL_SECURITY_ALG_NONE;
+os/linux/sta_ioctl.c:1982:		pIoctlSec->Alg = RT_CMD_STA_IOCTL_SECURITY_ALG_WEP;
+os/linux/sta_ioctl.c:1984:		pIoctlSec->Alg = RT_CMD_STA_IOCTL_SECURITY_ALG_TKIP;
+os/linux/sta_ioctl.c:1986:		pIoctlSec->Alg = RT_CMD_STA_IOCTL_SECURITY_ALG_CCMP;
+os/linux/sta_ioctl.c:1995:		pIoctlSec->ext_flags |= RT_CMD_STA_IOCTL_SECURTIY_EXT_SET_TX_KEY;
+os/linux/sta_ioctl.c:1997:		pIoctlSec->ext_flags |= RT_CMD_STA_IOCTL_SECURTIY_EXT_GROUP_KEY;
+os/linux/sta_ioctl.c:1999:		pIoctlSec->flags = RT_CMD_STA_IOCTL_SECURITY_DISABLED;
+os/linux/sta_ioctl.c:2003:	if (RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCSIWENCODEEXT, 0,
+os/linux/sta_ioctl.c:2020:	RT_CMD_STA_IOCTL_SECURITY IoctlSec, *pIoctlSec = &IoctlSec;
+os/linux/sta_ioctl.c:2028:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:2040:	memset(pIoctlSec, 0, sizeof(RT_CMD_STA_IOCTL_SECURITY));
+os/linux/sta_ioctl.c:2044:	if (RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCGIWENCODEEXT, 0,
+os/linux/sta_ioctl.c:2055:	if (pIoctlSec->Alg == RT_CMD_STA_IOCTL_SECURITY_ALG_NONE)
+os/linux/sta_ioctl.c:2057:	else if (pIoctlSec->Alg == RT_CMD_STA_IOCTL_SECURITY_ALG_WEP)
+os/linux/sta_ioctl.c:2059:	else if (pIoctlSec->Alg == RT_CMD_STA_IOCTL_SECURITY_ALG_TKIP)
+os/linux/sta_ioctl.c:2061:	else if (pIoctlSec->Alg == RT_CMD_STA_IOCTL_SECURITY_ALG_CCMP)
+os/linux/sta_ioctl.c:2064:	if (pIoctlSec->flags & RT_CMD_STA_IOCTL_SECURITY_DISABLED)
+os/linux/sta_ioctl.c:2087:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:2094:	if (RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCSIWGENIE, 0,
+os/linux/sta_ioctl.c:2111:	RT_CMD_STA_IOCTL_RSN_IE IoctlRsnIe, *pIoctlRsnIe = &IoctlRsnIe;
+os/linux/sta_ioctl.c:2117:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:2127:	if (RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCGIWGENIE, 0,
+os/linux/sta_ioctl.c:2144:	RT_CMD_STA_IOCTL_PMA_SA IoctlPmaSa, *pIoctlPmaSa = &IoctlPmaSa;
+os/linux/sta_ioctl.c:2150:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:2163:		pIoctlPmaSa->Cmd = RT_CMD_STA_IOCTL_PMA_SA_FLUSH;
+os/linux/sta_ioctl.c:2165:		pIoctlPmaSa->Cmd = RT_CMD_STA_IOCTL_PMA_SA_REMOVE;
+os/linux/sta_ioctl.c:2167:		pIoctlPmaSa->Cmd = RT_CMD_STA_IOCTL_PMA_SA_ADD;
+os/linux/sta_ioctl.c:2173:	RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCSIWPMKSA, 0,
+os/linux/sta_ioctl.c:2185:	RTMP_IOCTL_INPUT_STRUCT wrqin;
+os/linux/sta_ioctl.c:2197:	RTMP_STA_IoctlHandle(pAd, &wrqin, CMD_RTPRIV_IOCTL_BBP, 0,
+os/linux/sta_ioctl.c:2221:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:2236:	if (RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCSIWRATE, 0,
+os/linux/sta_ioctl.c:2257:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:2264:	RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCGIWRATE, 0,
+os/linux/sta_ioctl.c:2398:	RTMP_IOCTL_INPUT_STRUCT rt_wrq, *wrq = &rt_wrq;
+os/linux/sta_ioctl.c:2421:	if (RTMP_DRIVER_IOCTL_SANITY_CHECK(pAd, NULL) != NDIS_STATUS_SUCCESS)
+os/linux/sta_ioctl.c:2428:		if (cmd != RTPRIV_IOCTL_SET)
+os/linux/sta_ioctl.c:2439:		case RTPRIV_IOCTL_ATE:
+os/linux/sta_ioctl.c:2444:				RTMP_COM_IoctlHandle(pAd, wrq, CMD_RTPRIV_IOCTL_ATE, 0, wrqin->ifr_name, 0);
+os/linux/sta_ioctl.c:2449:			DBGPRINT(RT_DEBUG_TRACE, ("IOCTL::SIOCGIFHWADDR\n"));
+os/linux/sta_ioctl.c:2451:			RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCGIFHWADDR,
+os/linux/sta_ioctl.c:2496:			RT_CMD_STA_IOCTL_NICK_NAME NickName, *pNickName = &NickName;
+os/linux/sta_ioctl.c:2503:			RTMP_STA_IoctlHandle(pAd, NULL, CMD_RTPRIV_IOCTL_STA_SIOCGIWNICKN, 0,
+os/linux/sta_ioctl.c:2590:		case RT_PRIV_IOCTL:
+os/linux/sta_ioctl.c:2591:        case RT_PRIV_IOCTL_EXT:
+os/linux/sta_ioctl.c:2594:			Status = RTMP_STA_IoctlHandle(pAd, wrq, CMD_RT_PRIV_IOCTL, subcmd,
+os/linux/sta_ioctl.c:2612:		case RTPRIV_IOCTL_SET:
+os/linux/sta_ioctl.c:2617:		case RTPRIV_IOCTL_GSITESURVEY:
+os/linux/sta_ioctl.c:2618:			RTMP_STA_IoctlHandle(pAd, wrq, CMD_RTPRIV_IOCTL_SITESURVEY_GET, 0,
+os/linux/sta_ioctl.c:2623:		case RTPRIV_IOCTL_MAC:
+os/linux/sta_ioctl.c:2624:			RTMP_STA_IoctlHandle(pAd, wrq, CMD_RTPRIV_IOCTL_MAC, 0,
+os/linux/sta_ioctl.c:2628:		case RTPRIV_IOCTL_E2P:
+os/linux/sta_ioctl.c:2629:			RTMP_STA_IoctlHandle(pAd, wrq, CMD_RTPRIV_IOCTL_E2P, 0,
+os/linux/sta_ioctl.c:2633:		case RTPRIV_IOCTL_RF:
+os/linux/sta_ioctl.c:2634:			RTMP_STA_IoctlHandle(pAd, wrq, CMD_RTPRIV_IOCTL_RF, 0,
+os/linux/sta_ioctl.c:2643:			DBGPRINT(RT_DEBUG_ERROR, ("IOCTL::unknown IOCTL's cmd = 0x%08x\n", cmd));
+이진파일 os/linux/mt7601Usta.ko 와(과) 일치
+이진파일 os/linux/sta_ioctl.o 와(과) 일치
+이진파일 os/linux/mt7601Usta.o 와(과) 일치
+sta/sta_cfg.c:2256:    INOUT RTMP_IOCTL_INPUT_STRUCT *rq,
+sta/sta_cfg.c:2259:    RTMP_IOCTL_INPUT_STRUCT *wrq = (RTMP_IOCTL_INPUT_STRUCT *) rq;
+sta/sta_cfg.c:3747:            DBGPRINT(RT_DEBUG_TRACE, ("Set::unknown IOCTL's subcmd = 0x%08x\n", cmd));
+sta/sta_cfg.c:3758:    IN  OUT RTMP_IOCTL_INPUT_STRUCT    *rq,
+sta/sta_cfg.c:3761:    RTMP_IOCTL_INPUT_STRUCT				*wrq = (RTMP_IOCTL_INPUT_STRUCT *) rq;
+sta/sta_cfg.c:4741:            DBGPRINT(RT_DEBUG_TRACE, ("Query::unknown IOCTL's subcmd = 0x%08x\n", cmd));
+sta/sta_cfg.c:4769:	IN RTMP_IOCTL_INPUT_STRUCT *wrq)
+sta/sta_cfg.c:5002:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq)
+sta/sta_cfg.c:5205:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq)
+sta/sta_cfg.c:5229:	bFromUI = ((wrq->u.data.flags & RTPRIV_IOCTL_FLAG_UI) == RTPRIV_IOCTL_FLAG_UI) ? TRUE : FALSE;
+sta/sta_cfg.c:5394:	IN RTMP_IOCTL_INPUT_STRUCT *wrq,
+sta/sta_cfg.c:5518:	IN RTMP_IOCTL_INPUT_STRUCT *wrq,
+sta/sta_cfg.c:5705:	IN	RTMP_IOCTL_INPUT_STRUCT	*wrq,
+sta/sta_cfg.c:5710:	RT_CMD_STA_IOCTL_SHOW *pIoctlShow = (RT_CMD_STA_IOCTL_SHOW *)pData;
+sta/sta_cfg.c:5889:/* ------------------- Functions for Standard IOCTL ------------------------- */
+sta/sta_cfg.c:5890:#define RTMP_STA_STANDARD_IOCTL_HANDLE(__pAd, __pData, __Data, __SubCmd)	\
+sta/sta_cfg.c:5891:	case CMD_RTPRIV_IOCTL_STA_SIOCSIWFREQ:									\
+sta/sta_cfg.c:5893:	case CMD_RTPRIV_IOCTL_STA_SIOCGIWFREQ:									\
+sta/sta_cfg.c:5895:	case CMD_RTPRIV_IOCTL_STA_SIOCSIWMODE:									\
+sta/sta_cfg.c:5897:	case CMD_RTPRIV_IOCTL_STA_SIOCGIWMODE:									\
+sta/sta_cfg.c:5899:	case CMD_RTPRIV_IOCTL_STA_SIOCSIWAP:									\
+sta/sta_cfg.c:5901:	case CMD_RTPRIV_IOCTL_STA_SIOCGIWAP:									\
+sta/sta_cfg.c:5903:	case CMD_RTPRIV_IOCTL_STA_SIOCSIWSCAN:									\
+sta/sta_cfg.c:5905:	case CMD_RTPRIV_IOCTL_STA_SIOCGIWSCAN:									\
+sta/sta_cfg.c:5907:	case CMD_RTPRIV_IOCTL_STA_SIOCSIWESSID:									\
+sta/sta_cfg.c:5909:	case CMD_RTPRIV_IOCTL_STA_SIOCGIWESSID:									\
+sta/sta_cfg.c:5911:	case CMD_RTPRIV_IOCTL_STA_SIOCSIWNICKN:									\
+sta/sta_cfg.c:5913:	case CMD_RTPRIV_IOCTL_STA_SIOCGIWNICKN:									\
+sta/sta_cfg.c:5915:	case CMD_RTPRIV_IOCTL_STA_SIOCSIWRTS:									\
+sta/sta_cfg.c:5917:	case CMD_RTPRIV_IOCTL_STA_SIOCGIWRTS:									\
+sta/sta_cfg.c:5919:	case CMD_RTPRIV_IOCTL_STA_SIOCSIWFRAG:									\
+sta/sta_cfg.c:5921:	case CMD_RTPRIV_IOCTL_STA_SIOCGIWFRAG:									\
+sta/sta_cfg.c:5923:	case CMD_RTPRIV_IOCTL_STA_SIOCSIWENCODE:								\
+sta/sta_cfg.c:5925:	case CMD_RTPRIV_IOCTL_STA_SIOCGIWENCODE:								\
+sta/sta_cfg.c:5927:	case CMD_RTPRIV_IOCTL_STA_SIOCSIWMLME:									\
+sta/sta_cfg.c:5929:	case CMD_RTPRIV_IOCTL_STA_SIOCSIWAUTH:									\
+sta/sta_cfg.c:5931:	case CMD_RTPRIV_IOCTL_STA_SIOCGIWAUTH:									\
+sta/sta_cfg.c:5933:	case CMD_RTPRIV_IOCTL_STA_SIOCSIWENCODEEXT:								\
+sta/sta_cfg.c:5935:	case CMD_RTPRIV_IOCTL_STA_SIOCGIWENCODEEXT:								\
+sta/sta_cfg.c:5937:	case CMD_RTPRIV_IOCTL_STA_SIOCSIWGENIE:									\
+sta/sta_cfg.c:5939:	case CMD_RTPRIV_IOCTL_STA_SIOCGIWGENIE:									\
+sta/sta_cfg.c:5941:	case CMD_RTPRIV_IOCTL_STA_SIOCSIWPMKSA:									\
+sta/sta_cfg.c:5943:	case CMD_RTPRIV_IOCTL_STA_SIOCSIWRATE:									\
+sta/sta_cfg.c:5945:	case CMD_RTPRIV_IOCTL_STA_SIOCGIWRATE:									\
+sta/sta_cfg.c:5947:	case CMD_RTPRIV_IOCTL_STA_SIOCGIFHWADDR:								\
+sta/sta_cfg.c:5949:	case CMD_RTPRIV_IOCTL_STA_SIOCSIWPRIVRSSI:								\
+sta/sta_cfg.c:5951:	case CMD_RTPRIV_IOCTL_STA_IW_SET_WSC_U32_ITEM:							\
+sta/sta_cfg.c:5953:	case CMD_RTPRIV_IOCTL_STA_IW_SET_WSC_STR_ITEM:							\
+sta/sta_cfg.c:5955:	case CMD_RTPRIV_IOCTL_STA_IW_GET_STATISTICS:							\
+sta/sta_cfg.c:5963:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCSIWFREQ.
+sta/sta_cfg.c:5982:	RT_CMD_STA_IOCTL_FREQ *pIoctlFreq = (RT_CMD_STA_IOCTL_FREQ *)pData;
+sta/sta_cfg.c:6020:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCGIWFREQ.
+sta/sta_cfg.c:6055:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCSIWMODE.
+sta/sta_cfg.c:6096:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCGIWMODE.
+sta/sta_cfg.c:6130:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCSIWAP.
+sta/sta_cfg.c:6186:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCGIWAP.
+sta/sta_cfg.c:6221:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCSIWSCAN.
+sta/sta_cfg.c:6246:	RT_CMD_STA_IOCTL_SCAN *pConfig = (RT_CMD_STA_IOCTL_SCAN *)pData;
+sta/sta_cfg.c:6333:	IN	RT_CMD_STA_IOCTL_BSS	*pSignal,
+sta/sta_cfg.c:6360:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCGIWSCAN.
+sta/sta_cfg.c:6379:	RT_CMD_STA_IOCTL_SCAN_TABLE *pIoctlScan = (RT_CMD_STA_IOCTL_SCAN_TABLE *)pData;
+sta/sta_cfg.c:6380:	RT_CMD_STA_IOCTL_BSS_TABLE *pBssTable;
+sta/sta_cfg.c:6400:				pAd->ScanTab.BssNr * sizeof(RT_CMD_STA_IOCTL_BSS_TABLE));
+sta/sta_cfg.c:6451:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCSIWESSID.
+sta/sta_cfg.c:6470:	RT_CMD_STA_IOCTL_SSID *pSsid = (RT_CMD_STA_IOCTL_SSID *)pData;
+sta/sta_cfg.c:6513:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCGIWESSID.
+sta/sta_cfg.c:6532:	RT_CMD_STA_IOCTL_SSID *pSsid = (RT_CMD_STA_IOCTL_SSID *)pData;
+sta/sta_cfg.c:6590:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCSIWNICKN.
+sta/sta_cfg.c:6618:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCGIWNICKN.
+sta/sta_cfg.c:6637:	RT_CMD_STA_IOCTL_NICK_NAME *IoctlName = (RT_CMD_STA_IOCTL_NICK_NAME *)pData;
+sta/sta_cfg.c:6653:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCSIWRTS.
+sta/sta_cfg.c:6680:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCGIWRTS.
+sta/sta_cfg.c:6707:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCSIWFRAG.
+sta/sta_cfg.c:6734:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCGIWFRAG.
+sta/sta_cfg.c:6761:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCSIWENCODE.
+sta/sta_cfg.c:6783:	RT_CMD_STA_IOCTL_SECURITY *pIoctlSec = (RT_CMD_STA_IOCTL_SECURITY *)pData;
+sta/sta_cfg.c:6787:        (pIoctlSec->flags & RT_CMD_STA_IOCTL_SECURITY_DISABLED))
+sta/sta_cfg.c:6795:	else if (pIoctlSec->flags & RT_CMD_STA_IOCTL_SECURITY_RESTRICTED ||
+sta/sta_cfg.c:6796:				pIoctlSec->flags & RT_CMD_STA_IOCTL_SECURITY_OPEN)
+sta/sta_cfg.c:6802:		if (pIoctlSec->flags & RT_CMD_STA_IOCTL_SECURITY_RESTRICTED)
+sta/sta_cfg.c:6846:		if(!(pIoctlSec->flags & RT_CMD_STA_IOCTL_SECURITY_NOKEY)) 
+sta/sta_cfg.c:6862:		if(!(pIoctlSec->flags & RT_CMD_STA_IOCTL_SECURITY_MODE))
+sta/sta_cfg.c:6881:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCGIWENCODE.
+sta/sta_cfg.c:6900:	RT_CMD_STA_IOCTL_SECURITY *pIoctlSec = (RT_CMD_STA_IOCTL_SECURITY *)pData;
+sta/sta_cfg.c:6910:		pIoctlSec->flags = RT_CMD_STA_IOCTL_SECURITY_DISABLED;
+sta/sta_cfg.c:6920:			pIoctlSec->flags |= RT_CMD_STA_IOCTL_SECURITY_RESTRICTED;		/* XXX */
+sta/sta_cfg.c:6922:			pIoctlSec->flags |= RT_CMD_STA_IOCTL_SECURITY_OPEN;		/* XXX */
+sta/sta_cfg.c:6928:			pIoctlSec->flags |= RT_CMD_STA_IOCTL_SECURITY_RESTRICTED;		/* XXX */
+sta/sta_cfg.c:6930:			pIoctlSec->flags |= RT_CMD_STA_IOCTL_SECURITY_OPEN;		/* XXX */
+sta/sta_cfg.c:6935:			pIoctlSec->flags |= RT_CMD_STA_IOCTL_SECURITY_RESTRICTED;		/* XXX */
+sta/sta_cfg.c:6937:			pIoctlSec->flags |= RT_CMD_STA_IOCTL_SECURITY_OPEN;		/* XXX */
+sta/sta_cfg.c:6939:		pIoctlSec->flags |= RT_CMD_STA_IOCTL_SECURITY_ENABLED;	/* XXX */
+sta/sta_cfg.c:6949:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCSIWMLME.
+sta/sta_cfg.c:6985:		case RT_CMD_STA_IOCTL_IW_MLME_DEAUTH:
+sta/sta_cfg.c:6998:		case RT_CMD_STA_IOCTL_IW_MLME_DISASSOC:
+sta/sta_cfg.c:7029:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCSIWAUTH.
+sta/sta_cfg.c:7048:	RT_CMD_STA_IOCTL_SECURITY_ADV *pIoctlWpa = (RT_CMD_STA_IOCTL_SECURITY_ADV *)pData;
+sta/sta_cfg.c:7053:    	case RT_CMD_STA_IOCTL_WPA_VERSION:
+sta/sta_cfg.c:7054:            if (pIoctlWpa->value == RT_CMD_STA_IOCTL_WPA_VERSION1)
+sta/sta_cfg.c:7060:            else if (pIoctlWpa->value == RT_CMD_STA_IOCTL_WPA_VERSION2)
+sta/sta_cfg.c:7065:    	case RT_CMD_STA_IOCTL_WPA_PAIRWISE:
+sta/sta_cfg.c:7066:            if (pIoctlWpa->value == RT_CMD_STA_IOCTL_WPA_PAIRWISE_NONE)
+sta/sta_cfg.c:7071:            else if (pIoctlWpa->value == RT_CMD_STA_IOCTL_WPA_PAIRWISE_WEP40 ||
+sta/sta_cfg.c:7072:                     pIoctlWpa->value == RT_CMD_STA_IOCTL_WPA_PAIRWISE_WEP104)
+sta/sta_cfg.c:7080:            else if (pIoctlWpa->value == RT_CMD_STA_IOCTL_WPA_PAIRWISE_TKIP)
+sta/sta_cfg.c:7085:            else if (pIoctlWpa->value == RT_CMD_STA_IOCTL_WPA_PAIRWISE_CCMP)
+sta/sta_cfg.c:7092:    	case RT_CMD_STA_IOCTL_WPA_GROUP:
+sta/sta_cfg.c:7093:            if (pIoctlWpa->value == RT_CMD_STA_IOCTL_WPA_GROUP_NONE)
+sta/sta_cfg.c:7097:            else if (pIoctlWpa->value == RT_CMD_STA_IOCTL_WPA_GROUP_WEP40)
+sta/sta_cfg.c:7101:			else if (pIoctlWpa->value == RT_CMD_STA_IOCTL_WPA_GROUP_WEP104)
+sta/sta_cfg.c:7105:            else if (pIoctlWpa->value == RT_CMD_STA_IOCTL_WPA_GROUP_TKIP)
+sta/sta_cfg.c:7109:            else if (pIoctlWpa->value == RT_CMD_STA_IOCTL_WPA_GROUP_CCMP)
+sta/sta_cfg.c:7115:    	case RT_CMD_STA_IOCTL_WPA_KEY_MGMT:
+sta/sta_cfg.c:7119:            if (pIoctlWpa->value == RT_CMD_STA_IOCTL_WPA_KEY_MGMT_1X)
+sta/sta_cfg.c:7149:    	case RT_CMD_STA_IOCTL_WPA_AUTH_RX_UNENCRYPTED_EAPOL:
+sta/sta_cfg.c:7151:    	case RT_CMD_STA_IOCTL_WPA_AUTH_PRIVACY_INVOKED:
+sta/sta_cfg.c:7161:    	case RT_CMD_STA_IOCTL_WPA_AUTH_DROP_UNENCRYPTED:
+sta/sta_cfg.c:7170:    	case RT_CMD_STA_IOCTL_WPA_AUTH_80211_AUTH_ALG: 
+sta/sta_cfg.c:7174:    	case RT_CMD_STA_IOCTL_WPA_AUTH_WPA_ENABLED:
+sta/sta_cfg.c:7177:	case RT_CMD_STA_IOCTL_WPA_AUTH_COUNTERMEASURES:
+sta/sta_cfg.c:7191:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCGIWAUTH.
+sta/sta_cfg.c:7210:	RT_CMD_STA_IOCTL_SECURITY_ADV *pIoctlWpa = (RT_CMD_STA_IOCTL_SECURITY_ADV *)pData;
+sta/sta_cfg.c:7214:	case RT_CMD_STA_IOCTL_WPA_AUTH_DROP_UNENCRYPTED:
+sta/sta_cfg.c:7218:	case RT_CMD_STA_IOCTL_WPA_AUTH_80211_AUTH_ALG:
+sta/sta_cfg.c:7222:	case RT_CMD_STA_IOCTL_WPA_AUTH_WPA_ENABLED:
+sta/sta_cfg.c:7310:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCSIWENCODEEXT.
+sta/sta_cfg.c:7329:	RT_CMD_STA_IOCTL_SECURITY *pIoctlSec = (RT_CMD_STA_IOCTL_SECURITY *)pData;
+sta/sta_cfg.c:7333:    if (pIoctlSec->flags == RT_CMD_STA_IOCTL_SECURITY_DISABLED)
+sta/sta_cfg.c:7351:        if (pIoctlSec->ext_flags & RT_CMD_STA_IOCTL_SECURTIY_EXT_SET_TX_KEY)
+sta/sta_cfg.c:7358:    		case RT_CMD_STA_IOCTL_SECURITY_ALG_NONE:
+sta/sta_cfg.c:7361:    		case RT_CMD_STA_IOCTL_SECURITY_ALG_WEP:
+sta/sta_cfg.c:7396:            case RT_CMD_STA_IOCTL_SECURITY_ALG_TKIP:
+sta/sta_cfg.c:7407:	                    if (pIoctlSec->ext_flags & RT_CMD_STA_IOCTL_SECURTIY_EXT_SET_TX_KEY)
+sta/sta_cfg.c:7415:	                    else if (pIoctlSec->ext_flags & RT_CMD_STA_IOCTL_SECURTIY_EXT_GROUP_KEY)
+sta/sta_cfg.c:7427:            case RT_CMD_STA_IOCTL_SECURITY_ALG_CCMP:
+sta/sta_cfg.c:7435:	                if (pIoctlSec->ext_flags & RT_CMD_STA_IOCTL_SECURTIY_EXT_SET_TX_KEY)
+sta/sta_cfg.c:7443:	                else if (pIoctlSec->ext_flags & RT_CMD_STA_IOCTL_SECURTIY_EXT_GROUP_KEY)
+sta/sta_cfg.c:7464:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCGIWENCODEEXT.
+sta/sta_cfg.c:7483:	RT_CMD_STA_IOCTL_SECURITY *pIoctlSec = (RT_CMD_STA_IOCTL_SECURITY *)pData;
+sta/sta_cfg.c:7516:			pIoctlSec->Alg = RT_CMD_STA_IOCTL_SECURITY_ALG_NONE;
+sta/sta_cfg.c:7517:			pIoctlSec->flags |= RT_CMD_STA_IOCTL_SECURITY_DISABLED;		
+sta/sta_cfg.c:7520:			pIoctlSec->Alg = RT_CMD_STA_IOCTL_SECURITY_ALG_WEP;
+sta/sta_cfg.c:7535:				pIoctlSec->Alg = RT_CMD_STA_IOCTL_SECURITY_ALG_TKIP;
+sta/sta_cfg.c:7537:				pIoctlSec->Alg = RT_CMD_STA_IOCTL_SECURITY_ALG_CCMP;
+sta/sta_cfg.c:7562:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCSIWGENIE.
+sta/sta_cfg.c:7640:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCGIWGENIE.
+sta/sta_cfg.c:7659:	RT_CMD_STA_IOCTL_RSN_IE *IoctlRsnIe = (RT_CMD_STA_IOCTL_RSN_IE *)pData;
+sta/sta_cfg.c:7711:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCSIWPMKSA.
+sta/sta_cfg.c:7730:	RT_CMD_STA_IOCTL_PMA_SA *pIoctlPmaSa = (RT_CMD_STA_IOCTL_PMA_SA *)pData;
+sta/sta_cfg.c:7736:		case RT_CMD_STA_IOCTL_PMA_SA_FLUSH:
+sta/sta_cfg.c:7740:		case RT_CMD_STA_IOCTL_PMA_SA_REMOVE:
+sta/sta_cfg.c:7760:		case RT_CMD_STA_IOCTL_PMA_SA_ADD:
+sta/sta_cfg.c:7800:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCSIWRATE.
+sta/sta_cfg.c:7872:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCGIWRATE.
+sta/sta_cfg.c:7932:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCGIFHWADDR.
+sta/sta_cfg.c:7958:	Handler for CMD_RTPRIV_IOCTL_STA_SIOCSIWPRIVRSSI.
+sta/sta_cfg.c:7986:	Handler for CMD_RTPRIV_IOCTL_STA_IW_SET_PARAM_PRE.
+sta/sta_cfg.c:8021:	Handler for CMD_RTPRIV_IOCTL_STA_IW_SET_WSC_U32_ITEM.
+sta/sta_cfg.c:8048:	Handler for CMD_RTPRIV_IOCTL_STA_IW_SET_WSC_STR_ITEM.
+sta/sta_cfg.c:8075:	Handler for CMD_RTPRIV_IOCTL_STA_IW_GET_STATISTICS.
+sta/sta_cfg.c:8218:	Communication with DRIVER module, whatever IOCTL.
+sta/sta_cfg.c:8222:	*pRequest		- the request from IOCTL
+sta/sta_cfg.c:8236:	IN	RTMP_IOCTL_INPUT_STRUCT	*pRequest,
+sta/sta_cfg.c:8256:		case CMD_RT_PRIV_IOCTL:
+sta/sta_cfg.c:8263:		case CMD_RTPRIV_IOCTL_PARAM_SET:
+sta/sta_cfg.c:8273:		case CMD_RTPRIV_IOCTL_SITESURVEY_GET:
+sta/sta_cfg.c:8277:		case CMD_RTPRIV_IOCTL_MAC:
+sta/sta_cfg.c:8281:		case CMD_RTPRIV_IOCTL_E2P:
+sta/sta_cfg.c:8285:		case CMD_RTPRIV_IOCTL_RF:
+sta/sta_cfg.c:8289:		case CMD_RTPRIV_IOCTL_BBP:
+sta/sta_cfg.c:8293:		case CMD_RTPRIV_IOCTL_SHOW:
+sta/sta_cfg.c:8297:		case CMD_RTPRIV_IOCTL_SITESURVEY:
+sta/sta_cfg.c:8301:		case CMD_RTPRIV_IOCTL_CHID_2_FREQ:
+sta/sta_cfg.c:8305:		case CMD_RTPRIV_IOCTL_FREQ_2_CHID:
+sta/sta_cfg.c:8309:		case CMD_RTPRIV_IOCTL_ORI_DEV_TYPE_SET:
+sta/sta_cfg.c:8318:		case CMD_RTPRIV_IOCTL_STA_SCAN_SANITY_CHECK:
+sta/sta_cfg.c:8338:		case CMD_RTPRIV_IOCTL_STA_SCAN_END:
+sta/sta_cfg.c:8343:		case CMD_RTPRIV_IOCTL_BSS_LIST_GET:
+sta/sta_cfg.c:8345:			RT_CMD_STA_IOCTL_BSS_LIST *pBssList = (RT_CMD_STA_IOCTL_BSS_LIST *)pData;
+sta/sta_cfg.c:8346:			RT_CMD_STA_IOCTL_BSS *pList;
+sta/sta_cfg.c:8361:		/* for standard IOCTL in LINUX OS */
+sta/sta_cfg.c:8363:		RTMP_STA_STANDARD_IOCTL_HANDLE(pAd, pData, Data, Subcmd);
+sta/sta_cfg.c:8368:			/* for IOCTL that also can be used in AP mode */
+sta/connect.c:658:	DBGPRINT(RT_DEBUG_TRACE, ("ANDROID IOCTL::SIOCSIWAP %02x:%02x:%02x:%02x:%02x:%02x\n",
+이진파일 sta/sta_cfg.o 와(과) 일치
+이진파일 sta/connect.o 와(과) 일치
