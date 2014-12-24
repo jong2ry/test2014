@@ -1,0 +1,197 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+#include <string.h>
+#include <ctype.h>
+#include <fcntl.h>
+#include <unistd.h>
+#include <fcntl.h>
+#include <termios.h>
+#include <time.h>
+
+#define BUF_SIZE                        16
+#define STRING_LENGTH                   128
+#define STAMP_LENGTH                    32
+
+#define OK                              0
+#define ERROR                           -1
+
+
+#define ASCII_ESC 27
+
+#define GOTO_TOP  "\033[1;1H"   /* ESC[1;1H begins output at the top of the terminal (line 1) */
+#define GOTO_BOTTOM "\033[100;1H"   /* ESC[1;1H begins output at the bottom of the terminal (actually line 100) */
+#define GOTO_BOL  "\033[100D"   /* Go to beginning of line */
+#define ERASE_EOL "\033[0K"     /* Erase to end of line */
+#define ERASE_EOS "\033[0J"     /* Erase to end screen */
+#define ERASE_WIN "\033[2J"     /* Erase the window */
+#define REVERSE   "\033[7m"     /* Reverse the display */
+#define NORMAL    "\033[0m"     /* Normal display */
+#define NONZEROHI "\033[33m"    /* Yellow used for non zero rows */
+#define ZEROHI    "\033[32m"    /* Green used for zero rows */
+#define SCROLL_FULL "\033[1;r"  /* Normal full-screen scrolling for statistics region */
+#define SET_SCROLL_REGION(row) printf("\033[%d;r",row)   /* for command region */
+#define CURSOR_ON  "\033[?25h"  /* Turn on cursor */
+#define CURSOR_OFF "\033[?25l"  /* Turn off cursor */
+#define GOTO_BOTTOM_x "\033[100;%dH" /* go to the bottom of the screen and posion x (supply to printf) */
+
+
+
+
+
+/* Comment ********************************************************************
+ *
+ *
+ */
+static int
+rtc_test(void)
+{
+  FILE *fp;
+  char pBuf[256];
+
+  memset(pBuf, 0, sizeof(pBuf));
+
+  // run date command.
+  fp = popen("date 010101012014 > /dev/null;hwclock -w;hwclock -r", "r");
+
+  if(!fp)
+  {
+    printf("RTC : ERROR\r\n");
+    return ERROR;
+  }
+  fgets(pBuf, 256, fp);
+  pclose(fp);
+
+  if (!strncmp("Wed Jan  1 01:01:00 2014  0.000000 seconds", pBuf,
+    strlen("Wed Jan  1 01:01:00 2014  0.000000 seconds")))
+  {
+    printf("RTC : OK\r\n");
+    return OK;
+  }
+  else
+  {
+    printf("RTC : ERROR\r\n");
+    return ERROR;
+  }
+
+  return OK;
+}
+
+
+
+
+/* Comment ********************************************************************
+ *
+ *
+ */
+static int
+lte_test(void)
+{
+  char buf[256];
+  char cmd[256];
+  int count = 0;
+  FILE *fp;
+
+  memset(buf, 0x00, sizeof(buf));
+  memset(cmd, 0x00, sizeof(cmd));
+
+  sprintf(cmd, "ifconfig  | grep -c 'lte0'");
+  fp=popen(cmd, "r");
+
+  if (!fp)
+    {
+      printf("LTE : ERROR\r\n");
+      return ERROR;
+    }
+  else
+  {
+    fgets(buf, 128, fp);
+  }
+
+  /* Now, get the result */
+  count = atoi(buf);
+
+  /* Close the pipe */
+  if (pclose(fp) == -1)
+    {
+      printf("LTE : ERROR\r\n");
+      return ERROR;
+    }
+
+  if (count > 0)
+      printf("LTE : OK\r\n");
+  else
+      printf("LTE : ERROR\r\n");
+
+  return OK;
+}
+
+
+
+/* Comment ********************************************************************
+ * Ping Test 
+ *
+ */
+int ping_test (char *if_name, char *ip)
+{
+  char buf[256];
+  char cmd[256];
+  int count = 0;
+  FILE *fp;
+  int i = 0;
+
+  for(i = 0;i < 30; i++)
+  {
+    memset(buf, 0x00, sizeof(buf));
+    memset(cmd, 0x00, sizeof(cmd));
+
+    sprintf(cmd, "ping -c 1 -W 1 %s 2> /dev/null | grep -c 'seq'", ip);
+    fp=popen(cmd, "r");
+
+    if (!fp)
+      return ERROR;
+    else
+      fgets(buf, 128, fp);
+
+    /* Now, get the result */
+    count = atoi(buf);
+
+    /* Close the pipe */
+    if (pclose(fp) == -1)
+      return ERROR;
+
+    if (count > 0)
+      return OK;
+    else
+      fprintf(stderr, "\r       \r%s .... Retry %d Ping.", if_name, i);
+  }
+
+  return ERROR;
+}
+
+
+
+
+/* Comment ********************************************************************
+ * main function.
+ *
+ */
+int main(int argc, char *argv[])
+{
+  printf ("\r\nNEXG FACTORY-TEST\r\n");
+
+  rtc_test ();
+  lte_test ();
+
+  if (ping_test ("LAN1", "1.1.1.254") == OK)
+    printf("PING : OK\r\n");
+  else
+    printf("PING : ERROR\r\n");
+
+
+  printf("programing is end");
+
+  return 0;
+}
+
+
